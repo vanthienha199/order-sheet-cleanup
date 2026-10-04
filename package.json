@@ -1,0 +1,12 @@
+{
+  "name": "order-sheet-cleanup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample Google Sheets automation: clean messy order rows, build a summary tab, email a weekly report.",
+  "scripts": {
+    "test": "node --test tests/",
+    "data": "node data/generate.js && node data/to-gs.js",
+    "local": "node tools/local-run.js"
+  },
+  "license": "MIT"
+}

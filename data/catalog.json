@@ -1,0 +1,50 @@
+{
+  "NB-A5-DOT": {
+    "name": "A5 Dot Grid Notebook",
+    "price": 18.5
+  },
+  "NB-A5-LIN": {
+    "name": "A5 Lined Notebook",
+    "price": 18.5
+  },
+  "NB-POCKET-3": {
+    "name": "Pocket Notebook 3 Pack",
+    "price": 14.75
+  },
+  "PEN-GEL-07": {
+    "name": "Gel Pen 0.7 Black",
+    "price": 3.25
+  },
+  "PEN-FINE-SET": {
+    "name": "Fineliner Set of 12",
+    "price": 24.9
+  },
+  "PEN-FTN-STL": {
+    "name": "Steel Fountain Pen",
+    "price": 42
+  },
+  "INK-BTL-BLU": {
+    "name": "Bottled Ink Blue Black 50ml",
+    "price": 16.4
+  },
+  "PLN-2027-WK": {
+    "name": "2027 Weekly Planner",
+    "price": 31
+  },
+  "DSK-MAT-FLT": {
+    "name": "Felt Desk Mat",
+    "price": 38.6
+  },
+  "STK-WASHI-6": {
+    "name": "Washi Tape 6 Pack",
+    "price": 11.95
+  },
+  "CRD-KRAFT-20": {
+    "name": "Kraft Note Cards 20 Pack",
+    "price": 13.2
+  },
+  "BAG-CANVAS": {
+    "name": "Canvas Pencil Case",
+    "price": 21.8
+  }
+}

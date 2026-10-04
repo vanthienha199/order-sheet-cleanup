@@ -1,0 +1,34 @@
+{
+  "out": ".",
+  "hero": {
+    "headline": "Messy orders,\nclean sheets",
+    "accent": "clean sheets",
+    "stack": "Google Sheets · Apps Script",
+    "chips": ["Fixes dates, prices, emails", "Flags rows for a human", "Weekly summary email"],
+    "shot": "raw/sheet_clean.png",
+    "url": "docs.google.com/spreadsheets",
+    "shotPosition": "left top"
+  },
+  "deliverables": {
+    "title": "Before, after, tested",
+    "accent": "tested",
+    "subtitle": "After tab: same script logic run locally",
+    "tiles": [
+      { "label": "Raw export", "img": "raw/tile_raw.png", "pos": "left top" },
+      { "label": "Clean table", "img": "raw/tile_clean.png", "pos": "left top" },
+      { "label": "Apps Script", "img": "raw/tile_script.png", "pos": "left top" },
+      { "label": "8 of 8 tests", "img": "raw/tests.png", "pos": "left top" }
+    ]
+  },
+  "process": {
+    "title": "Clean data in four days",
+    "accent": "four days",
+    "subtitle": "Your real export, a copy first",
+    "steps": [
+      { "day": "Day 1", "title": "Read your export", "text": "Every messy format in your real rows, written down." },
+      { "day": "Day 2", "title": "Build the cleanup", "text": "Apps Script that fixes, dedupes and flags rows." },
+      { "day": "Day 3", "title": "Summary and email", "text": "A summary tab and a weekly report by email." },
+      { "day": "Day 4", "title": "Test and hand over", "text": "Run on a copy, then a short video walkthrough." }
+    ]
+  }
+}
