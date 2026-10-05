@@ -102,7 +102,7 @@ test('weekly email html has the numbers from the summary', () => {
   vm.runInNewContext(fs.readFileSync(path.join(ROOT, 'apps-script', 'Report.gs'), 'utf8'), ctx);
   const { clean, stats } = cleanOrders_(raw, catalog);
   const s = summarize_(clean, '2026-10-04');
-  const html = rmod.exports.buildReportHtml_(s, stats, { company: 'Fieldnote Supply Co. (sample)' });
+  const html = rmod.exports.buildReportHtml_(s, stats, { company: 'Halvorsen Office Supply' });
   assert.ok(html.includes(rmod.exports.money_(s.kpis.revenue)));
   assert.ok(html.includes('Week of Sep 28 to Oct 4, 2026'));
   assert.ok(html.includes(s.products[0][0]));

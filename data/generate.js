@@ -1,5 +1,5 @@
 // Generates the messy order export used by the demo. Seeded, so every run gives the same file.
-// Fieldnote Supply Co. is a fictional stationery shop; every name and email is made up.
+// Halvorsen Office Supply is a fictional office supply shop; every name and email is made up.
 const fs = require('fs');
 const path = require('path');
 

@@ -5,8 +5,9 @@
  */
 
 var TAB = { raw: 'Raw Orders', catalog: 'Catalog', clean: 'Clean Orders', summary: 'Summary', settings: 'Settings', log: 'Run Log' };
-var COLOR = { ink: '#15171B', muted: '#6E6A63', head: '#1E2126', headInk: '#F3EFE7', band: '#F6F3EE', flag: '#FCE9D6', accent: '#F2994A', line: '#E6E1D8' };
-var COMPANY = 'Fieldnote Supply Co. (sample)';
+var COLOR = { ink: '#111111', muted: '#5E5C57', head: '#111111', headInk: '#FFFFFF', band: '#F7F6F1', flag: '#F2B705', chart: '#111111', line: '#E4E2DA' };
+var FONT = { display: 'Zilla Slab', body: 'IBM Plex Sans', mono: 'IBM Plex Mono' };
+var COMPANY = 'Halvorsen Office Supply';
 
 function onOpen() {
   SpreadsheetApp.getUi().createMenu('Order tools')
@@ -47,7 +48,7 @@ function readCatalog_() {
 }
 
 function styleHeader_(range) {
-  range.setBackground(COLOR.head).setFontColor(COLOR.headInk).setFontWeight('bold').setFontFamily('IBM Plex Sans').setVerticalAlignment('middle');
+  range.setBackground(COLOR.head).setFontColor(COLOR.headInk).setFontWeight('bold').setFontFamily(FONT.display).setVerticalAlignment('middle');
 }
 
 function log_(action, detail) {
@@ -69,7 +70,7 @@ function cleanOrders() {
   if (sh.getFilter()) sh.getFilter().remove();
 
   var all = [CLEAN_HEADERS].concat(result.clean);
-  sh.getRange(1, 1, all.length, CLEAN_HEADERS.length).setValues(all).setFontFamily('IBM Plex Sans').setFontSize(10);
+  sh.getRange(1, 1, all.length, CLEAN_HEADERS.length).setValues(all).setFontFamily(FONT.body).setFontSize(10);
   styleHeader_(sh.getRange(1, 1, 1, CLEAN_HEADERS.length));
   sh.setRowHeight(1, 32);
   sh.setFrozenRows(1);
@@ -109,12 +110,12 @@ function buildSummary() {
   sh.clear();
   sh.getCharts().forEach(function (c) { sh.removeChart(c); });
   sh.setHiddenGridlines(true);
-  sh.getRange('A:Z').setFontFamily('IBM Plex Sans').setFontColor(COLOR.ink);
+  sh.getRange('A:Z').setFontFamily(FONT.body).setFontColor(COLOR.ink);
   sh.setColumnWidth(1, 24);
   [2, 3, 4, 5, 6, 7, 8, 9].forEach(function (c) { sh.setColumnWidth(c, 132); });
 
   sh.getRange('B2').setValue(COMPANY).setFontSize(10).setFontColor(COLOR.muted).setFontWeight('bold');
-  sh.getRange('B3').setValue('Week of ' + prettyWeek_(s.week)).setFontSize(20).setFontWeight('bold');
+  sh.getRange('B3').setValue('Week of ' + prettyWeek_(s.week)).setFontSize(20).setFontWeight('bold').setFontFamily(FONT.display);
 
   var tiles = [
     ['Net revenue', s.kpis.revenue, '$#,##0.00', s.kpis.revenueDelta],
@@ -155,7 +156,7 @@ function buildSummary() {
   sh.insertChart(sh.newChart().asColumnChart()
     .addRange(sh.getRange(w0 + 1, 2, weekly.length, 1)).addRange(sh.getRange(w0 + 1, 4, weekly.length, 1))
     .setPosition(w0, 7, 0, 0).setOption('title', 'Net revenue by week').setOption('legend', { position: 'none' })
-    .setOption('colors', [COLOR.accent]).setOption('width', 560).setOption('height', 260)
+    .setOption('colors', [COLOR.chart]).setOption('width', 560).setOption('height', 260)
     .setOption('vAxis', { format: '$#,##0', gridlines: { color: COLOR.line } }).build());
   sh.insertChart(sh.newChart().asBarChart()
     .addRange(sh.getRange(r0 + 1, 2, regions.length, 2))

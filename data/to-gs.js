@@ -8,7 +8,7 @@ const rows = text.split('\n').map((line) => {
   r.push(c); return r;
 });
 const catalog = JSON.parse(fs.readFileSync(path.join(__dirname, 'catalog.json'), 'utf8'));
-const out = `/** Synthetic sample data for the demo. Fieldnote Supply Co. is fictional and every name is made up. */
+const out = `/** Synthetic sample data for the demo. Halvorsen Office Supply is fictional and every name is made up. */
 var SAMPLE_RAW_ORDERS = ${JSON.stringify(rows)};
 var SAMPLE_CATALOG = ${JSON.stringify([['SKU', 'Product', 'Price'], ...Object.entries(catalog).map(([s, v]) => [s, v.name, v.price])])};
 

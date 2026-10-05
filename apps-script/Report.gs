@@ -27,7 +27,7 @@ function prettyWeek_(iso) {
 function buildReportHtml_(summary, stats, opts) {
   opts = opts || {};
   var k = summary.kpis;
-  var ink = '#15171B', muted = '#6E6A63', line = '#E6E1D8', accent = '#C96A1B', tile = '#F6F3EE';
+  var ink = '#15171B', muted = '#6E6A63', line = '#E6E1D8', accent = '#111111', tile = '#F6F3EE';
   var deltaColor = function (n) { return n == null ? muted : n >= 0 ? '#2E7D4F' : '#B3432F'; };
   var tileHtml = function (label, value, delta) {
     return '<td style="padding:16px;background:' + tile + ';border-radius:10px;width:25%;vertical-align:top">' +
@@ -42,7 +42,7 @@ function buildReportHtml_(summary, stats, opts) {
     var on = w[0] === summary.week;
     return '<td style="vertical-align:bottom;text-align:center;padding:0 6px">' +
       '<div style="font:11px Arial,sans-serif;color:' + muted + ';margin-bottom:4px">' + money_(Math.round(w[2])).replace('.00', '') + '</div>' +
-      '<div style="height:' + h + 'px;background:' + (on ? accent : '#CFC9BE') + ';border-radius:4px 4px 0 0"></div>' +
+      '<div style="height:' + h + 'px;background:' + (on ? '#F2B705' : '#CFC9BE') + ';border-radius:4px 4px 0 0"></div>' +
       '<div style="font:11px Arial,sans-serif;color:' + muted + ';margin-top:4px">' + w[0].slice(5).replace('-', '/') + '</div></td>';
   }).join('');
   var top = summary.products.slice(0, 5).map(function (p, i) {
