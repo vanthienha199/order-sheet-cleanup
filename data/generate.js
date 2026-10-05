@@ -25,7 +25,7 @@ const catalog = [
 
 const first = ['Maya', 'Daniel', 'Priya', 'Lucas', 'Aaliyah', 'Tomás', 'Hannah', 'Kenji', 'Olivia', 'Marcus', 'Sofia', 'Ethan', 'Leila', 'Grace', 'Noah', 'Zara', 'Owen', 'Camila', 'Isaac', 'Nadia', 'Felix', 'Imani', 'Ruth', 'Diego', 'Chloe', 'Arjun', 'Bianca', 'Theo', 'Yara', 'Caleb'];
 const last = ['Rahman', 'Okafor', 'Castillo', 'Nguyen', 'Brennan', 'Moreau', 'Patel', 'Lindqvist', 'Haddad', 'Whitaker', 'Kowalski', 'Tanaka', 'Mensah', 'McAllister', "O'Neill", 'Silva', 'Ferreira', 'Abara', 'Holt', 'Varga', 'Delgado', 'Chen', 'Osei', 'Iyer', 'Kerr'];
-const domains = ['gmail.com', 'outlook.com', 'yahoo.com', 'icloud.com', 'proton.me', 'fastmail.com'];
+const domains = ['example.com', 'example.org', 'example.net', 'mail.example', 'post.example', 'inbox.example'];
 const regions = {
   Northeast: ['NE', 'northeast', 'North East', 'Northeast'],
   Southeast: ['SE', 'southeast', 'Southeast', 'South east'],

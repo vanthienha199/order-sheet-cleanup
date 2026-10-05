@@ -6,6 +6,6 @@ To use it, open a Google Sheet, go to Extensions, then Apps Script, and paste th
 
 The cleaning and summary logic lives in `Clean.gs` with no Google calls, so it also runs in Node. `npm test` runs 8 checks against the full 323 row sample, and `node tools/local-run.js` writes the cleaned rows as tab separated text.
 
-The sample data is synthetic, for a made up shop called Fieldnote Supply Co. In the screenshots, the "Clean Orders" tab was filled by running the same `Clean.gs` logic locally and pasting the values, because the demo Google account blocks unverified scripts.
+The sample data is synthetic, for a made up shop called Fieldnote Supply Co., and every email uses reserved example domains (example.com, .example). In the screenshots, the "Clean Orders" tab was filled by running the same `Clean.gs` logic locally and pasting the values, because the demo Google account blocks unverified scripts.
 
 ![Clean orders table](hero.png)

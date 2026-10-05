@@ -46,8 +46,8 @@ test('money strings become numbers', () => {
 });
 
 test('emails are lowercased and common typos fixed', () => {
-  assert.equal(cleanEmail_(' HANNAH.VARGA@GMAIL.COM '), 'hannah.varga@gmail.com');
-  assert.equal(cleanEmail_('leila.nguyen24@gmail.con'), 'leila.nguyen24@gmail.com');
+  assert.equal(cleanEmail_(' HANNAH.VARGA@EXAMPLE.COM '), 'hannah.varga@example.com');
+  assert.equal(cleanEmail_('leila.nguyen24@example.con'), 'leila.nguyen24@example.com');
   assert.equal(cleanEmail_('not an email'), '');
 });
 

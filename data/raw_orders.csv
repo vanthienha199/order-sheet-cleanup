@@ -1,324 +1,324 @@
 Order ID,Date,Customer,Email,Region,SKU,Product,Qty,Unit price,Total,Status
-#FN-41207,24 Aug 2026,Tomás Kowalski,tomas.kowalski@fastmail.com,SE,pen_gel_07,Gel Pen 0.7 Black,1,USD 3.25,3.25,delivered
-#FN-41208,2026-08-24,Leila  Iyer,leila.iyer@outlook.com,W,NB-POCKET-3,pocket notebook 3 pack,1,14.75 USD,14.75,delivered 
-#FN-41209,"Aug 24, 2026",Leila Iyer,leila.iyer@outlook.com,west,PEN-FINE-SET,Fineliner Set of 12,1,24.9 USD,24.9 USD,DLVRD
-FN-41210,08/24/26,Theo Rahman,theo.rahman84@outlook.com,SE,nb_pocket_3,Pocket Notebook 3 Pack,6,USD 14.75,88.50,delivered
-FN-41211,8/24/2026,  Leila Nguyen,leila.nguyen24@gmail.con,Mid West,DSK-MAT-FLT,Felt Desk Mat,3,38.60,115.80,DLVRD
-fn41212,8/24/2026,  Maya Mensah,maya.mensah@fastmail.com,SW,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25,9.75 USD,Refunded
-FN-41213,24 Aug 2026,Camila  Holt,camila.holt@fastmail.com,southeast,nb-pocket-3,pocket notebook 3 pack,1,14.75,$14.75,delivered
-#FN-41214,"Aug 25, 2026",HANNAH VARGA,HANNAH.VARGA@GMAIL.COM,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,2,$13.20,USD 26.40,DLVRD
-#FN-41215,"Aug 25, 2026",Grace  Moreau,GRACE.MOREAU@GMAIL.COM,Southeast,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25 USD,9.75 USD,delivered
-#FN-41216,2026-08-25,leila iyer,leila.iyer@outlook.com,west,PLN-2027-WK,2027 weekly planner,3,31.00,USD 93.00,delivered 
-FN-41217,8/25/2026,bianca ferreira,bianca.ferreira@gmail.com,west,dsk-mat-flt,felt desk mat,3 pcs,38.60,115.8 USD,DLVRD
-fn41218,25 Aug 2026,Hannah Varga,hannah.varga@gmail.con,SW,PEN-GEL-07,gel pen 0.7 black,1,3.25,$3.25,canceled
-#FN-41219,8/25/2026,Maya Tanaka,maya.tanaka@icloud.com,southwest,PEN-GEL-07,Gel Pen 0.7 Black,4,3.25,$13.00,delivered
-FN-41220,8/26/2026,NOAH SILVA,noah.silva@fastmail.com,northeast,NB-A5-LIN,A5 Lined Notebook,2,18.50,37.00,Delivered
-FN-41221,26 Aug 2026,Yara Lindqvist,YARA.LINDQVIST16@YAHOO.COM,South east,nb-a5-dot,A5 Dot Grid Notebook,4,18.5 USD,74.00,delivered 
-FN-41222,"Aug 26, 2026",maya tanaka,maya.tanaka@proton.me,MW,PLN-2027-WK,2027 Weekly Planner,4,31.00,USD 124.00,DLVRD
-#FN-41223,26 Aug 2026,Yara  Brennan,yara.brennan@gmail.com,MW,CRD-KRAFT-20,kraft note cards 20 pack,1,13.20,$13.20,Delivered
-FN-41224,"Aug 26, 2026",Grace Moreau,grace.moreau@gmail.com,SE,CRD-KRAFT-20,kraft note cards 20 pack,1,USD 13.20,13.20,delivered 
-FN-41225,08/26/26,KENJI SILVA,KENJI.SILVA@PROTON.ME,MW,nb_a5_lin,A5 Lined Notebook,4,18.50,74.00,delivered 
-FN-41226,2026-08-26,Priya  Haddad,priya.haddad13@yahoo.com,midwest,CRD-KRAFT-20,kraft note cards 20 pack,3,13.20,39.60,delivered 
-FN-41227,"Aug 26, 2026",THEO HADDAD,theo.haddad74@gmail.com,southwest,DSK-MAT-FLT,felt desk mat,2,38.6 USD,77.20,delivered 
-fn41228,"Aug 26, 2026",Chloe Whitaker,chloe.whitaker@outlook.com,West Coast,PEN-FTN-STL,Steel Fountain Pen,4,42 USD,168.00,Delivered
-fn41229,27 Aug 2026,Isaac  Okafor,isaac.okafor55@yahoo.com,Southwest,BAG-CANVAS,Canvas Pencil Case,1,USD 21.80,21.80,Cancelled
-FN-41230,27 Aug 2026,  Noah O'Neill,noah.oneill@gmail.com,Southwest,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,14.75 USD,delivered 
-#FN-41231,08/27/26,lucas silva,lucas.silva@fastmail.com,SW,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,USD 24.90,Cancelled
-FN-41232,2026-08-27,Bianca Tanaka,bianca.tanaka@yahoo.con,Midwest,BAG-CANVAS,canvas pencil case,4,$21.80,USD 87.20,DLVRD
-FN-41233,08/27/26,Felix Kowalski,felix.kowalski@yahoo.com,southwest,PEN-FINE-SET,Fineliner Set of 12,3,USD 24.90,74.70,returned
-FN-41234,08/27/26,Leila Holt,leila.holt@gmail.com,southwest,DSK-MAT-FLT,Felt Desk Mat,3,$38.60,115.80,delivered
-FN-41235,08/27/26,Yara Lindqvist,YARA.LINDQVIST16@YAHOO.COM,SE,NB-POCKET-3,Pocket Notebook 3 Pack,4,USD 14.75,59.00,delivered
-FN-41236,"Aug 27, 2026",  Yara Tanaka,yara.tanaka83@icloud.con,W,ink_btl_blu,Bottled Ink Blue Black 50ml,6,$16.40,98.4 USD,Refunded
-FN-41237,"Aug 28, 2026",Bianca Tanaka,bianca.tanaka@yahoo.com,MW,STK-WASHI-6,Washi Tape 6 Pack,1,USD 11.95,11.95 USD,delivered 
-FN-41238,2026-08-28,priya chen,priya.chen68@proton.me,Mid West,NB-A5-DOT,A5 Dot Grid Notebook,3,USD 18.50,55.50,delivered 
-fn41239,2026-08-28,Kenji Silva,kenji.silva@proton.me,midwest,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31 USD,delivered
-fn41240,8/28/2026,Caleb Kerr,caleb.kerr@yahoo.com,North East,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered
-#FN-41241,2026-08-28,Chloe  Varga,CHLOE.VARGA@OUTLOOK.COM,Southwest,ink_btl_blu,Bottled Ink Blue Black 50ml,1,,16.40,Delivered
-FN-41242,"Aug 28, 2026",caleb chen,caleb.chen59@proton.me,west,ink-btl-blu,Bottled Ink Blue Black 50ml,1,$16.40,USD 16.40,delivered 
-#FN-41243,28 Aug 2026,Hannah  Abara,hannah.abara20@outlook.com,W,NB-A5-LIN,a5 lined notebook,6 pcs,$18.50,111.00,Cancelled
-#FN-41243,28 Aug 2026,Hannah  Abara,hannah.abara20@outlook.com,W,NB-A5-LIN,a5 lined notebook,6 pcs,$18.50,111.00,Cancelled
-FN-41244,8/28/2026,Priya  Okafor,priya.okafor74@gmail.com,Southwest,PEN-GEL-07,Gel Pen 0.7 Black,4,USD 3.25,13.00,DLVRD
-#FN-41245,8/29/2026,leila nguyen,leila.nguyen@icloud.com,SW,bag_canvas,Canvas Pencil Case,4,21.80,87.20,Delivered
-FN-41246,2026-08-29,Priya  Tanaka,priya.tanaka53@yahoo.com,Southeast,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered 
-#FN-41247,8/29/2026,  Grace Silva,grace.silva@yahoo.com,Southwest,PEN-FTN-STL,Steel Fountain Pen,6,42.00,252 USD,delivered
-FN-41248,8/29/2026,Ruth  Ferreira,ruth.ferreira@yahoo.con,Southwest,PLN-2027-WK,2027 weekly planner,1,31.00,$31.00,delivered 
-#FN-41249,08/30/26,  Chloe Osei,chloe.osei56@proton.me,Southwest,PEN-GEL-07,gel pen 0.7 black,4,3.25,$13.00,refund
-fn41250,08/30/26,Priya Brennan,priya.brennan@icloud.com,Southeast,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25,9.75,delivered
-#FN-41251,8/30/2026,Chloe Osei,chloe.osei56@proton.me,Southwest,pen_gel_07,gel pen 0.7 black,2,3.25,6.5 USD,Cancelled
-fn41252,30 Aug 2026,ISAAC OKAFOR,isaac.okafor55@yahoo.com,southwest,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,$24.90,delivered 
-FN-41253,08/30/26,Kenji Silva,kenji.silva@fastmail.com,Southwest,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,$74.00,Cancelled
+#FN-41207,24 Aug 2026,Tomás Kowalski,tomas.kowalski@inbox.example,SE,pen_gel_07,Gel Pen 0.7 Black,1,USD 3.25,3.25,delivered
+#FN-41208,2026-08-24,Leila  Iyer,leila.iyer@example.org,W,NB-POCKET-3,pocket notebook 3 pack,1,14.75 USD,14.75,delivered 
+#FN-41209,"Aug 24, 2026",Leila Iyer,leila.iyer@example.org,west,PEN-FINE-SET,Fineliner Set of 12,1,24.9 USD,24.9 USD,DLVRD
+FN-41210,08/24/26,Theo Rahman,theo.rahman84@example.org,SE,nb_pocket_3,Pocket Notebook 3 Pack,6,USD 14.75,88.50,delivered
+FN-41211,8/24/2026,  Leila Nguyen,leila.nguyen24@example.con,Mid West,DSK-MAT-FLT,Felt Desk Mat,3,38.60,115.80,DLVRD
+fn41212,8/24/2026,  Maya Mensah,maya.mensah@inbox.example,SW,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25,9.75 USD,Refunded
+FN-41213,24 Aug 2026,Camila  Holt,camila.holt@inbox.example,southeast,nb-pocket-3,pocket notebook 3 pack,1,14.75,$14.75,delivered
+#FN-41214,"Aug 25, 2026",HANNAH VARGA,HANNAH.VARGA@EXAMPLE.COM,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,2,$13.20,USD 26.40,DLVRD
+#FN-41215,"Aug 25, 2026",Grace  Moreau,GRACE.MOREAU@EXAMPLE.COM,Southeast,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25 USD,9.75 USD,delivered
+#FN-41216,2026-08-25,leila iyer,leila.iyer@example.org,west,PLN-2027-WK,2027 weekly planner,3,31.00,USD 93.00,delivered 
+FN-41217,8/25/2026,bianca ferreira,bianca.ferreira@example.com,west,dsk-mat-flt,felt desk mat,3 pcs,38.60,115.8 USD,DLVRD
+fn41218,25 Aug 2026,Hannah Varga,hannah.varga@example.con,SW,PEN-GEL-07,gel pen 0.7 black,1,3.25,$3.25,canceled
+#FN-41219,8/25/2026,Maya Tanaka,maya.tanaka@mail.example,southwest,PEN-GEL-07,Gel Pen 0.7 Black,4,3.25,$13.00,delivered
+FN-41220,8/26/2026,NOAH SILVA,noah.silva@inbox.example,northeast,NB-A5-LIN,A5 Lined Notebook,2,18.50,37.00,Delivered
+FN-41221,26 Aug 2026,Yara Lindqvist,YARA.LINDQVIST16@EXAMPLE.NET,South east,nb-a5-dot,A5 Dot Grid Notebook,4,18.5 USD,74.00,delivered 
+FN-41222,"Aug 26, 2026",maya tanaka,maya.tanaka@post.example,MW,PLN-2027-WK,2027 Weekly Planner,4,31.00,USD 124.00,DLVRD
+#FN-41223,26 Aug 2026,Yara  Brennan,yara.brennan@example.com,MW,CRD-KRAFT-20,kraft note cards 20 pack,1,13.20,$13.20,Delivered
+FN-41224,"Aug 26, 2026",Grace Moreau,grace.moreau@example.com,SE,CRD-KRAFT-20,kraft note cards 20 pack,1,USD 13.20,13.20,delivered 
+FN-41225,08/26/26,KENJI SILVA,KENJI.SILVA@POST.EXAMPLE,MW,nb_a5_lin,A5 Lined Notebook,4,18.50,74.00,delivered 
+FN-41226,2026-08-26,Priya  Haddad,priya.haddad13@example.net,midwest,CRD-KRAFT-20,kraft note cards 20 pack,3,13.20,39.60,delivered 
+FN-41227,"Aug 26, 2026",THEO HADDAD,theo.haddad74@example.com,southwest,DSK-MAT-FLT,felt desk mat,2,38.6 USD,77.20,delivered 
+fn41228,"Aug 26, 2026",Chloe Whitaker,chloe.whitaker@example.org,West Coast,PEN-FTN-STL,Steel Fountain Pen,4,42 USD,168.00,Delivered
+fn41229,27 Aug 2026,Isaac  Okafor,isaac.okafor55@example.net,Southwest,BAG-CANVAS,Canvas Pencil Case,1,USD 21.80,21.80,Cancelled
+FN-41230,27 Aug 2026,  Noah O'Neill,noah.oneill@example.com,Southwest,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,14.75 USD,delivered 
+#FN-41231,08/27/26,lucas silva,lucas.silva@inbox.example,SW,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,USD 24.90,Cancelled
+FN-41232,2026-08-27,Bianca Tanaka,bianca.tanaka@example.net,Midwest,BAG-CANVAS,canvas pencil case,4,$21.80,USD 87.20,DLVRD
+FN-41233,08/27/26,Felix Kowalski,felix.kowalski@example.net,southwest,PEN-FINE-SET,Fineliner Set of 12,3,USD 24.90,74.70,returned
+FN-41234,08/27/26,Leila Holt,leila.holt@example.com,southwest,DSK-MAT-FLT,Felt Desk Mat,3,$38.60,115.80,delivered
+FN-41235,08/27/26,Yara Lindqvist,YARA.LINDQVIST16@EXAMPLE.NET,SE,NB-POCKET-3,Pocket Notebook 3 Pack,4,USD 14.75,59.00,delivered
+FN-41236,"Aug 27, 2026",  Yara Tanaka,yara.tanaka83@mail.example,W,ink_btl_blu,Bottled Ink Blue Black 50ml,6,$16.40,98.4 USD,Refunded
+FN-41237,"Aug 28, 2026",Bianca Tanaka,bianca.tanaka@example.net,MW,STK-WASHI-6,Washi Tape 6 Pack,1,USD 11.95,11.95 USD,delivered 
+FN-41238,2026-08-28,priya chen,priya.chen68@post.example,Mid West,NB-A5-DOT,A5 Dot Grid Notebook,3,USD 18.50,55.50,delivered 
+fn41239,2026-08-28,Kenji Silva,kenji.silva@post.example,midwest,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31 USD,delivered
+fn41240,8/28/2026,Caleb Kerr,caleb.kerr@example.net,North East,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered
+#FN-41241,2026-08-28,Chloe  Varga,CHLOE.VARGA@EXAMPLE.ORG,Southwest,ink_btl_blu,Bottled Ink Blue Black 50ml,1,,16.40,Delivered
+FN-41242,"Aug 28, 2026",caleb chen,caleb.chen59@post.example,west,ink-btl-blu,Bottled Ink Blue Black 50ml,1,$16.40,USD 16.40,delivered 
+#FN-41243,28 Aug 2026,Hannah  Abara,hannah.abara20@example.org,W,NB-A5-LIN,a5 lined notebook,6 pcs,$18.50,111.00,Cancelled
+#FN-41243,28 Aug 2026,Hannah  Abara,hannah.abara20@example.org,W,NB-A5-LIN,a5 lined notebook,6 pcs,$18.50,111.00,Cancelled
+FN-41244,8/28/2026,Priya  Okafor,priya.okafor74@example.com,Southwest,PEN-GEL-07,Gel Pen 0.7 Black,4,USD 3.25,13.00,DLVRD
+#FN-41245,8/29/2026,leila nguyen,leila.nguyen@mail.example,SW,bag_canvas,Canvas Pencil Case,4,21.80,87.20,Delivered
+FN-41246,2026-08-29,Priya  Tanaka,priya.tanaka53@example.net,Southeast,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered 
+#FN-41247,8/29/2026,  Grace Silva,grace.silva@example.net,Southwest,PEN-FTN-STL,Steel Fountain Pen,6,42.00,252 USD,delivered
+FN-41248,8/29/2026,Ruth  Ferreira,ruth.ferreira@example.net,Southwest,PLN-2027-WK,2027 weekly planner,1,31.00,$31.00,delivered 
+#FN-41249,08/30/26,  Chloe Osei,chloe.osei56@post.example,Southwest,PEN-GEL-07,gel pen 0.7 black,4,3.25,$13.00,refund
+fn41250,08/30/26,Priya Brennan,priya.brennan@mail.example,Southeast,PEN-GEL-07,Gel Pen 0.7 Black,3,3.25,9.75,delivered
+#FN-41251,8/30/2026,Chloe Osei,chloe.osei56@post.example,Southwest,pen_gel_07,gel pen 0.7 black,2,3.25,6.5 USD,Cancelled
+fn41252,30 Aug 2026,ISAAC OKAFOR,isaac.okafor55@example.net,southwest,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,$24.90,delivered 
+FN-41253,08/30/26,Kenji Silva,kenji.silva@inbox.example,Southwest,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,$74.00,Cancelled
 FN-41254,8/31/2026,  Kenji Brennan,,southwest,BAG-CANVAS,Canvas Pencil Case,6 pcs,,130.80,Refunded
-fn41255,"Aug 31, 2026",noah whitaker,NOAH.WHITAKER@FASTMAIL.COM,west,NB-A5-DOT,A5 Dot Grid Notebook,1,18.5 USD,18.50,delivered 
-fn41256,2026-08-31,Maya  Tanaka,maya.tanaka@icloud.com,Southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6,13.20,79.20,Delivered
-fn41257,31 Aug 2026,Kenji  Silva,kenji.silva@proton.me,MW,pen_ftn_stl,steel fountain pen,1,42.00,42.00,delivered 
-FN-41258,"Aug 31, 2026",  Sofia Rahman,SOFIA.RAHMAN@OUTLOOK.COM,Southwest,CRD-KRAFT-20,kraft note cards 20 pack,2,$13.20,26.40,delivered 
-FN-41259,08/31/26,  Sofia Rahman,sofia.rahman@outlook.com,SW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.4 USD,Refunded
+fn41255,"Aug 31, 2026",noah whitaker,NOAH.WHITAKER@INBOX.EXAMPLE,west,NB-A5-DOT,A5 Dot Grid Notebook,1,18.5 USD,18.50,delivered 
+fn41256,2026-08-31,Maya  Tanaka,maya.tanaka@mail.example,Southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6,13.20,79.20,Delivered
+fn41257,31 Aug 2026,Kenji  Silva,kenji.silva@post.example,MW,pen_ftn_stl,steel fountain pen,1,42.00,42.00,delivered 
+FN-41258,"Aug 31, 2026",  Sofia Rahman,SOFIA.RAHMAN@EXAMPLE.ORG,Southwest,CRD-KRAFT-20,kraft note cards 20 pack,2,$13.20,26.40,delivered 
+FN-41259,08/31/26,  Sofia Rahman,sofia.rahman@example.org,SW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.4 USD,Refunded
 ,,,,,,,,,,
-fn41260,8/31/2026,grace silva,grace.silva@yahoo.com,southwest,pen-fine-set,Fineliner Set of 12,1,24.9 USD,USD 24.90,Delivered
-fn41261,"Sep 1, 2026",sofia patel,sofia.patel82@proton.me,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,USD 16.40,$16.40,delivered 
-fn41261,"Sep 1, 2026",sofia patel,sofia.patel82@proton.me,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,USD 16.40,$16.40,delivered 
-FN-41262,9/1/2026,felix kowalski,FELIX.KOWALSKI@YAHOO.COM,SW,PLN-2027-WK,2027 weekly planner,4,$31.00,$124.00,Delivered
-FN-41263,2026-09-01,Kenji  Silva,KENJI.SILVA@FASTMAIL.COM,southwest,nb_a5_dot,a5 dot grid notebook,1,18.50,18.50,delivered 
-fn41264,09/01/26,Lucas Castillo,lucas.castillo@icloud.com,North East,NB-POCKET-3,Pocket Notebook 3 Pack,1 pcs,USD 14.75,14.75,Delivered
+fn41260,8/31/2026,grace silva,grace.silva@example.net,southwest,pen-fine-set,Fineliner Set of 12,1,24.9 USD,USD 24.90,Delivered
+fn41261,"Sep 1, 2026",sofia patel,sofia.patel82@post.example,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,USD 16.40,$16.40,delivered 
+fn41261,"Sep 1, 2026",sofia patel,sofia.patel82@post.example,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,USD 16.40,$16.40,delivered 
+FN-41262,9/1/2026,felix kowalski,FELIX.KOWALSKI@EXAMPLE.NET,SW,PLN-2027-WK,2027 weekly planner,4,$31.00,$124.00,Delivered
+FN-41263,2026-09-01,Kenji  Silva,KENJI.SILVA@INBOX.EXAMPLE,southwest,nb_a5_dot,a5 dot grid notebook,1,18.50,18.50,delivered 
+fn41264,09/01/26,Lucas Castillo,lucas.castillo@mail.example,North East,NB-POCKET-3,Pocket Notebook 3 Pack,1 pcs,USD 14.75,14.75,Delivered
 ,,,,,,,,,,
-#FN-41265,2026-09-01,Felix Kowalski,felix.kowalski@yahoo.com,SW,DSK-MAT-FLT,felt desk mat,2,38.60,77.2 USD,Delivered
-fn41266,9/1/2026,chloe brennan,CHLOE.BRENNAN@PROTON.ME,MW,PEN-FINE-SET,Fineliner Set of 12,4,$24.90,109.6 USD,Cancelled
+#FN-41265,2026-09-01,Felix Kowalski,felix.kowalski@example.net,SW,DSK-MAT-FLT,felt desk mat,2,38.60,77.2 USD,Delivered
+fn41266,9/1/2026,chloe brennan,CHLOE.BRENNAN@POST.EXAMPLE,MW,PEN-FINE-SET,Fineliner Set of 12,4,$24.90,109.6 USD,Cancelled
 ,,,,,,,,,,
-FN-41267,9/1/2026,Priya  Chen,priya.chen68@proton.me,MW,NB-A5-LIN,A5 Lined Notebook,1,18.50,18.50,delivered 
-FN-41268,9/1/2026,DIEGO HOLT,diego.holt@proton.me,MW,NB-A5-LIN,A5 Lined Notebook,2,USD 18.50,37.00,delivered
-FN-41269,"Sep 2, 2026",Leila  Iyer,leila.iyer@outlook.con,West Coast,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,$13.20,13.20,Cancelled
-fn41270,09/02/26,Theo Haddad,theo.haddad74@gmail.com,Southwest,BAG-CANVAS,Canvas Pencil Case,4,21.80,87.20,Delivered
-FN-41271,"Sep 2, 2026",Leila Iyer,leila.iyer@outlook.com,west,DSK-MAT-FLT,Felt Desk Mat,1,$38.60,$38.60,Delivered
-FN-41272,2026-09-02,Isaac Rahman,isaac.rahman@icloud.com,midwest,BAG-CANVAS,Canvas Pencil Case,1,21.8 USD,21.80,delivered 
-FN-41273,"Sep 2, 2026",Lucas  Kowalski,lucas.kowalski94@yahoo.com,SE,DSK-MAT-FLT,felt desk mat,6,38.6 USD,$231.60,delivered 
-FN-41274,"Sep 2, 2026",Maya Mensah,maya.mensah@fastmail.com,SW,PEN-FTN-STL,Steel Fountain Pen,2,USD 42.00,84.00,delivered 
-FN-41275,2026-09-02,Grace Moreau,GRACE.MOREAU@GMAIL.COM,SE,pln-2027-wk,2027 weekly planner,2,$31.00,$62.00,delivered
-#FN-41276,09/03/26,Maya  Mensah,maya.mensah@fastmail.com,Southwest,PLN-2027-WK,2027 Weekly Planner,2 pcs,USD 31.00,$62.00,DLVRD
-fn41277,09/03/26,noah whitaker,noah.whitaker@fastmail.com,West Coast,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Delivered
-fn41278,09/03/26,Lucas  Silva,lucas.silva@fastmail.com,SW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.4 USD,16.40,DLVRD
-fn41279,3 Sep 2026,Chloe Varga,chloe.varga@outlook.com,SW,BAG-CANVAS,Canvas Pencil Case,2,USD 21.80,42.60,Delivered
-fn41280,09/03/26,yara lindqvist,yara.lindqvist16@yahoo.com,southeast,nb-pocket-3,pocket notebook 3 pack,1,USD 14.75,$14.75,DLVRD
-FN-41281,3 Sep 2026,Kenji Silva,kenji.silva@proton.me,Midwest,DSK-MAT-FLT,Felt Desk Mat,2,$38.60,$77.20,DLVRD
-FN-41281,3 Sep 2026,Kenji Silva,kenji.silva@proton.me,Midwest,DSK-MAT-FLT,Felt Desk Mat,2,$38.60,$77.20,DLVRD
-FN-41282,3 Sep 2026,chloe osei,chloe.osei56@proton.me,Southwest,nb_a5_lin,a5 lined notebook,2,18.5 USD,37.00,refund
-#FN-41283,2026-09-03,Yara  Lindqvist,YARA.LINDQVIST16@YAHOO.COM,SE,NB-A5-LIN,A5 Lined Notebook,3,18.50,55.5 USD,delivered 
+FN-41267,9/1/2026,Priya  Chen,priya.chen68@post.example,MW,NB-A5-LIN,A5 Lined Notebook,1,18.50,18.50,delivered 
+FN-41268,9/1/2026,DIEGO HOLT,diego.holt@post.example,MW,NB-A5-LIN,A5 Lined Notebook,2,USD 18.50,37.00,delivered
+FN-41269,"Sep 2, 2026",Leila  Iyer,leila.iyer@example.org,West Coast,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,$13.20,13.20,Cancelled
+fn41270,09/02/26,Theo Haddad,theo.haddad74@example.com,Southwest,BAG-CANVAS,Canvas Pencil Case,4,21.80,87.20,Delivered
+FN-41271,"Sep 2, 2026",Leila Iyer,leila.iyer@example.org,west,DSK-MAT-FLT,Felt Desk Mat,1,$38.60,$38.60,Delivered
+FN-41272,2026-09-02,Isaac Rahman,isaac.rahman@mail.example,midwest,BAG-CANVAS,Canvas Pencil Case,1,21.8 USD,21.80,delivered 
+FN-41273,"Sep 2, 2026",Lucas  Kowalski,lucas.kowalski94@example.net,SE,DSK-MAT-FLT,felt desk mat,6,38.6 USD,$231.60,delivered 
+FN-41274,"Sep 2, 2026",Maya Mensah,maya.mensah@inbox.example,SW,PEN-FTN-STL,Steel Fountain Pen,2,USD 42.00,84.00,delivered 
+FN-41275,2026-09-02,Grace Moreau,GRACE.MOREAU@EXAMPLE.COM,SE,pln-2027-wk,2027 weekly planner,2,$31.00,$62.00,delivered
+#FN-41276,09/03/26,Maya  Mensah,maya.mensah@inbox.example,Southwest,PLN-2027-WK,2027 Weekly Planner,2 pcs,USD 31.00,$62.00,DLVRD
+fn41277,09/03/26,noah whitaker,noah.whitaker@inbox.example,West Coast,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Delivered
+fn41278,09/03/26,Lucas  Silva,lucas.silva@inbox.example,SW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.4 USD,16.40,DLVRD
+fn41279,3 Sep 2026,Chloe Varga,chloe.varga@example.org,SW,BAG-CANVAS,Canvas Pencil Case,2,USD 21.80,42.60,Delivered
+fn41280,09/03/26,yara lindqvist,yara.lindqvist16@example.net,southeast,nb-pocket-3,pocket notebook 3 pack,1,USD 14.75,$14.75,DLVRD
+FN-41281,3 Sep 2026,Kenji Silva,kenji.silva@post.example,Midwest,DSK-MAT-FLT,Felt Desk Mat,2,$38.60,$77.20,DLVRD
+FN-41281,3 Sep 2026,Kenji Silva,kenji.silva@post.example,Midwest,DSK-MAT-FLT,Felt Desk Mat,2,$38.60,$77.20,DLVRD
+FN-41282,3 Sep 2026,chloe osei,chloe.osei56@post.example,Southwest,nb_a5_lin,a5 lined notebook,2,18.5 USD,37.00,refund
+#FN-41283,2026-09-03,Yara  Lindqvist,YARA.LINDQVIST16@EXAMPLE.NET,SE,NB-A5-LIN,A5 Lined Notebook,3,18.50,55.5 USD,delivered 
 FN-41284,9/4/2026,DIEGO RAHMAN,,Southeast,BAG-CANVAS,Canvas Pencil Case,3,$21.80,65.40,Delivered
-FN-41285,9/4/2026,BIANCA TANAKA,BIANCA.TANAKA@YAHOO.COM,midwest,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,23.90,delivered
-#FN-41286,2026-09-04,Hannah  Abara,hannah.abara20@outlook.com,west,nb-pocket-3,Pocket Notebook 3 Pack,2,,$29.50,Cancelled
-FN-41287,2026-09-04,  Ethan Kerr,ethan.kerr38@yahoo.com,west,NB-A5-LIN,A5 Lined Notebook,1,$18.50,18.50,delivered 
-fn41288,09/04/26,tomás nguyen,tomas.nguyen@fastmail.com,North East,BAG-CANVAS,canvas pencil case,1,21.80,21.8 USD,canceled
-fn41289,"Sep 4, 2026",Isaac  Holt,isaac.holt@icloud.com,west,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,$13.20,13.20,delivered
-fn41290,09/04/26,Caleb Kerr,caleb.kerr@yahoo.com,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.4 USD,16.40,delivered 
-fn41291,2026-09-04,ISAAC RAHMAN,isaac.rahman@icloud.com,MW,STK-WASHI-6,Washi Tape 6 Pack,1 pcs,11.95,11.95,Refunded
-FN-41292,"Sep 4, 2026",THEO HADDAD,theo.haddad74@gmail.con,Southwest,STK-WASHI-6,Washi Tape 6 Pack,1 pcs,11.95,$11.95,Refunded
-fn41293,2026-09-05,Maya Tanaka,maya.tanaka@icloud.com,SW,BAG-CANVAS,Canvas Pencil Case,4,,87.20,delivered
-FN-41294,5 Sep 2026,priya chen,PRIYA.CHEN68@PROTON.ME,Mid West,NB-A5-LIN,A5 Lined Notebook,4,18.50,74.00,delivered 
-#FN-41295,9/5/2026,Nadia Rahman,nadia.rahman@yahoo.com,west,NB-A5-DOT,A5 Dot Grid Notebook,2,18.5 USD,37.00,Delivered
-FN-41296,09/05/26,  Olivia Varga,olivia.varga@icloud.com,NE,stk_washi_6,Washi Tape 6 Pack,1,$11.95,11.95,delivered 
-#FN-41297,9/5/2026,MAYA MENSAH,maya.mensah@fastmail.com,SW,NB-A5-LIN,A5 Lined Notebook,2,18.50,USD 37.00,DLVRD
-FN-41298,"Sep 6, 2026",LUCAS CASTILLO,lucas.castillo@icloud.com,North East,NB-POCKET-3,Pocket Notebook 3 Pack,4,14.75,USD 59.00,delivered
-FN-41299,2026-09-06,Chloe Brennan,chloe.brennan@proton.me,midwest,NB-A5-LIN,A5 Lined Notebook,2,18.5 USD,37.00,Delivered
-FN-41300,2026-09-06,Diego Rahman,diego.rahman@proton.me,southeast,PEN-GEL-07,Gel Pen 0.7 Black,2,3.25,6.50,canceled
-FN-41301,9/6/2026,DIEGO CASTILLO,diego.castillo@proton.me,West Coast,nb_a5_dot,a5 dot grid notebook,3,USD 18.50,USD 55.50,delivered
-FN-41302,2026-09-06,camila lindqvist,camila.lindqvist@outlook.com,Mid West,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,$16.40,delivered 
-fn41303,7 Sep 2026,MAYA TANAKA,maya.tanaka@proton.me,midwest,PEN-GEL-07,Gel Pen 0.7 Black,1,$3.25,$3.25,DLVRD
-FN-41304,09/07/26,Ethan  Kerr,ethan.kerr38@yahoo.com,West,PEN-FINE-SET,Fineliner Set of 12,2,24.9 USD,49.80,DLVRD
-FN-41305,2026-09-07,kenji brennan,kenji.brennan50@icloud.com,Southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.6 USD,48.60,delivered 
-fn41306,"Sep 7, 2026",Leila Iyer,leila.iyer@outlook.com,W,NB-A5-DOT,A5 Dot Grid Notebook,1,USD 18.50,$18.50,delivered 
-fn41307,2026-09-07,chloe whitaker,chloe.whitaker@outlook.com,W,DSK-MAT-FLT,Felt Desk Mat,1,$38.60,$38.60,Delivered
-fn41308,9/7/2026,bianca tanaka,bianca.tanaka@yahoo.com,MW,nb_pocket_3,Pocket Notebook 3 Pack,1,USD 14.75,$14.75,delivered 
-FN-41309,7 Sep 2026,THEO HOLT,theo.holt@yahoo.com,South east,PLN-2027-WK,2027 weekly planner,3,$31.00,USD 93.00,delivered 
-#FN-41310,2026-09-07,Hannah  Abara,hannah.abara20@outlook.com,W,PEN-GEL-07,gel pen 0.7 black,6,USD 3.25,$19.50,Delivered
-fn41311,2026-09-07,  Tomás Nguyen,tomas.nguyen@fastmail.com,North East,NB-A5-DOT,A5 Dot Grid Notebook,2,18.50,$37.00,canceled
-fn41312,2026-09-08,Owen Delgado,OWEN.DELGADO49@OUTLOOK.COM,NE,CRD-KRAFT-20,kraft note cards 20 pack,1,13.20,USD 13.20,DLVRD
-FN-41313,"Sep 8, 2026",  Felix Kowalski,felix.kowalski@yahoo.com,southwest,PEN-FTN-STL,steel fountain pen,2,42.00,84.00,delivered
-#FN-41314,09/08/26,Grace Chen,grace.chen@gmail.com,Southwest,pln_2027_wk,2027 Weekly Planner,1,,31 USD,Delivered
-#FN-41315,"Sep 8, 2026",priya okafor,PRIYA.OKAFOR74@GMAIL.COM,southwest,DSK-MAT-FLT,Felt Desk Mat,2,38.60,77.2 USD,delivered 
-#FN-41316,2026-09-08,  Maya Tanaka,maya.tanaka@icloud.com,Southwest,pen_gel_07,Gel Pen 0.7 Black,2,$3.25,6.50,Delivered
-FN-41317,09/08/26,diego rahman,diego.rahman@proton.me,Southwest,PEN-GEL-07,gel pen 0.7 black,6,3.25,USD 19.50,delivered 
-FN-41318,8 Sep 2026,chloe varga,chloe.varga@outlook.com,Southwest,PLN-2027-WK,2027 Weekly Planner,1,31.00,USD 31.00,delivered 
-FN-41319,"Sep 8, 2026",Theo Haddad,theo.haddad74@gmail.com,SW,NB-A5-LIN,A5 Lined Notebook,2 pcs,USD 18.50,37.00,delivered 
-#FN-41320,9/8/2026,Priya Chen,priya.chen68@proton.me,Midwest,PEN-FTN-STL,Steel Fountain Pen,1,,$42.00,delivered
-FN-41321,09/08/26,Priya  Okafor,PRIYA.OKAFOR@GMAIL.COM,southeast,PEN-FINE-SET,fineliner set of 12,1,24.90,23.90,delivered 
-FN-41322,9 Sep 2026,Leila Nguyen,LEILA.NGUYEN24@GMAIL.COM,Midwest,PEN-GEL-07,Gel Pen 0.7 Black,1 pcs,$3.25,3.25,Refunded
-FN-41323,09/09/26,Noah Whitaker,noah.whitaker@fastmail.com,W,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,delivered 
-#FN-41324,2026-09-09,Sofia Rahman,sofia.rahman@outlook.com,SW,INK-BTL-BLU,bottled ink blue black 50ml,2,16.4 USD,32.80,Delivered
-#FN-41325,2026-09-09,Tomás Kowalski,tomas.kowalski@fastmail.com,South east,BAG-CANVAS,Canvas Pencil Case,1 pcs,21.80,$21.80,Delivered
-FN-41326,9/9/2026,NADIA DELGADO,nadia.delgado12@fastmail.com,MW,NB-A5-LIN,A5 Lined Notebook,2,USD 18.50,USD 37.00,delivered
-FN-41327,09/09/26,FELIX SILVA,felix.silva@outlook.com,northeast,PEN-FINE-SET,fineliner set of 12,3,24.9 USD,$74.70,delivered
-FN-41328,"Sep 9, 2026",Chloe Osei,CHLOE.OSEI56@PROTON.ME,SW,DSK-MAT-FLT,Felt Desk Mat,1,38.6 USD,38.6 USD,Delivered
-FN-41329,9/10/2026,Leila Nguyen,leila.nguyen24@gmail.com,midwest,INK-BTL-BLU,bottled ink blue black 50ml,3,$16.40,USD 49.20,DLVRD
-FN-41330,"Sep 10, 2026",Priya Okafor,PRIYA.OKAFOR@GMAIL.COM,Southeast,PLN-2027-WK,2027 Weekly Planner,2,$31.00,62.00,DLVRD
-fn41331,"Sep 10, 2026",leila nguyen,leila.nguyen@icloud.com,SW,PLN-2027-WK,2027 weekly planner,2,$31.00,USD 62.00,DLVRD
-FN-41332,9/10/2026,Nadia Rahman,nadia.rahman@yahoo.com,West,nb_a5_dot,A5 Dot Grid Notebook,3,18.50,55.50,delivered 
-#FN-41333,2026-09-10,caleb chen,caleb.chen59@proton.me,West Coast,DSK-MAT-FLT,Felt Desk Mat,2,38.60,77.20,Delivered
-FN-41334,9/10/2026,caleb chen,caleb.chen59@proton.me,West,PEN-FTN-STL,Steel Fountain Pen,1,42.00,USD 42.00,delivered 
-FN-41335,"Sep 11, 2026",Diego Holt,diego.holt@proton.me,midwest,PLN-2027-WK,2027 Weekly Planner,4,USD 31.00,USD 124.00,Cancelled
-#FN-41336,9/11/2026,Priya Okafor,priya.okafor74@gmail.com,SW,INK-BTL-BLU,bottled ink blue black 50ml,6,$16.40,98.40,returned
-#FN-41337,11 Sep 2026,Grace Moreau,grace.moreau@gmail.com,Southeast,DSK-MAT-FLT,Felt Desk Mat,4,$38.60,USD 154.40,Delivered
-FN-41338,11 Sep 2026,  Priya Chen,priya.chen68@proton.me,MW,PEN-GEL-07,Gel Pen 0.7 Black,6,3.25,19.5 USD,delivered 
-#FN-41339,9/11/2026,MARCUS WHITAKER,marcus.whitaker@icloud.com,NE,PEN-FINE-SET,Fineliner Set of 12,2,24.9 USD,USD 49.80,Delivered
-FN-41340,9/11/2026,  Hannah Varga,hannah.varga@gmail.com,southwest,PEN-GEL-07,gel pen 0.7 black,2,USD 3.25,USD 6.50,returned
-fn41341,11 Sep 2026,leila iyer,LEILA.IYER@OUTLOOK.COM,West,PEN-FINE-SET,Fineliner Set of 12,1,24.90,USD 24.90,returned
-FN-41342,9/12/2026,Priya Okafor,priya.okafor@gmail.com,SE,NB-A5-LIN,A5 Lined Notebook,1,18.50,18.50,delivered 
-FN-41343,12 Sep 2026,  Yara Brennan,yara.brennan@gmail.com,MW,crd-kraft-20,Kraft Note Cards 20 Pack,1 pcs,13.20,13.2 USD,Delivered
-#FN-41344,2026-09-12,  Caleb Holt,caleb.holt@icloud.com,MW,bag-canvas,Canvas Pencil Case,1,21.80,21.8 USD,canceled
-FN-41345,2026-09-12,diego castillo,diego.castillo@proton.me,W,DSK-MAT-FLT,felt desk mat,1,$38.60,USD 38.60,DLVRD
-FN-41346,09/12/26,Chloe Varga,chloe.varga@outlook.con,Southwest,PEN-GEL-07,Gel Pen 0.7 Black,1,3.25 USD,3.25,delivered 
-#FN-41347,2026-09-13,THEO HADDAD,theo.haddad74@gmail.com,SW,PEN-GEL-07,Gel Pen 0.7 Black,2,,6.50,Delivered
-#FN-41348,2026-09-13,lucas kowalski,lucas.kowalski94@yahoo.com,southeast,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31.00,Delivered
-FN-41349,09/13/26,Tomás Nguyen,tomas.nguyen@fastmail.com,North East,NB-A5-LIN,A5 Lined Notebook,6,18.50,$111.00,delivered
-fn41350,"Sep 13, 2026",  Leila Nguyen,leila.nguyen24@gmail.com,Midwest,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,USD 29.50,Refunded
-FN-41351,"Sep 13, 2026",CALEB KERR,caleb.kerr@yahoo.com,NE,nb_a5_dot,a5 dot grid notebook,1 pcs,18.50,18.50,delivered 
+FN-41285,9/4/2026,BIANCA TANAKA,BIANCA.TANAKA@EXAMPLE.NET,midwest,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,23.90,delivered
+#FN-41286,2026-09-04,Hannah  Abara,hannah.abara20@example.org,west,nb-pocket-3,Pocket Notebook 3 Pack,2,,$29.50,Cancelled
+FN-41287,2026-09-04,  Ethan Kerr,ethan.kerr38@example.net,west,NB-A5-LIN,A5 Lined Notebook,1,$18.50,18.50,delivered 
+fn41288,09/04/26,tomás nguyen,tomas.nguyen@inbox.example,North East,BAG-CANVAS,canvas pencil case,1,21.80,21.8 USD,canceled
+fn41289,"Sep 4, 2026",Isaac  Holt,isaac.holt@mail.example,west,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,$13.20,13.20,delivered
+fn41290,09/04/26,Caleb Kerr,caleb.kerr@example.net,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.4 USD,16.40,delivered 
+fn41291,2026-09-04,ISAAC RAHMAN,isaac.rahman@mail.example,MW,STK-WASHI-6,Washi Tape 6 Pack,1 pcs,11.95,11.95,Refunded
+FN-41292,"Sep 4, 2026",THEO HADDAD,theo.haddad74@example.con,Southwest,STK-WASHI-6,Washi Tape 6 Pack,1 pcs,11.95,$11.95,Refunded
+fn41293,2026-09-05,Maya Tanaka,maya.tanaka@mail.example,SW,BAG-CANVAS,Canvas Pencil Case,4,,87.20,delivered
+FN-41294,5 Sep 2026,priya chen,PRIYA.CHEN68@POST.EXAMPLE,Mid West,NB-A5-LIN,A5 Lined Notebook,4,18.50,74.00,delivered 
+#FN-41295,9/5/2026,Nadia Rahman,nadia.rahman@example.net,west,NB-A5-DOT,A5 Dot Grid Notebook,2,18.5 USD,37.00,Delivered
+FN-41296,09/05/26,  Olivia Varga,olivia.varga@mail.example,NE,stk_washi_6,Washi Tape 6 Pack,1,$11.95,11.95,delivered 
+#FN-41297,9/5/2026,MAYA MENSAH,maya.mensah@inbox.example,SW,NB-A5-LIN,A5 Lined Notebook,2,18.50,USD 37.00,DLVRD
+FN-41298,"Sep 6, 2026",LUCAS CASTILLO,lucas.castillo@mail.example,North East,NB-POCKET-3,Pocket Notebook 3 Pack,4,14.75,USD 59.00,delivered
+FN-41299,2026-09-06,Chloe Brennan,chloe.brennan@post.example,midwest,NB-A5-LIN,A5 Lined Notebook,2,18.5 USD,37.00,Delivered
+FN-41300,2026-09-06,Diego Rahman,diego.rahman@post.example,southeast,PEN-GEL-07,Gel Pen 0.7 Black,2,3.25,6.50,canceled
+FN-41301,9/6/2026,DIEGO CASTILLO,diego.castillo@post.example,West Coast,nb_a5_dot,a5 dot grid notebook,3,USD 18.50,USD 55.50,delivered
+FN-41302,2026-09-06,camila lindqvist,camila.lindqvist@example.org,Mid West,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,$16.40,delivered 
+fn41303,7 Sep 2026,MAYA TANAKA,maya.tanaka@post.example,midwest,PEN-GEL-07,Gel Pen 0.7 Black,1,$3.25,$3.25,DLVRD
+FN-41304,09/07/26,Ethan  Kerr,ethan.kerr38@example.net,West,PEN-FINE-SET,Fineliner Set of 12,2,24.9 USD,49.80,DLVRD
+FN-41305,2026-09-07,kenji brennan,kenji.brennan50@mail.example,Southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.6 USD,48.60,delivered 
+fn41306,"Sep 7, 2026",Leila Iyer,leila.iyer@example.org,W,NB-A5-DOT,A5 Dot Grid Notebook,1,USD 18.50,$18.50,delivered 
+fn41307,2026-09-07,chloe whitaker,chloe.whitaker@example.org,W,DSK-MAT-FLT,Felt Desk Mat,1,$38.60,$38.60,Delivered
+fn41308,9/7/2026,bianca tanaka,bianca.tanaka@example.net,MW,nb_pocket_3,Pocket Notebook 3 Pack,1,USD 14.75,$14.75,delivered 
+FN-41309,7 Sep 2026,THEO HOLT,theo.holt@example.net,South east,PLN-2027-WK,2027 weekly planner,3,$31.00,USD 93.00,delivered 
+#FN-41310,2026-09-07,Hannah  Abara,hannah.abara20@example.org,W,PEN-GEL-07,gel pen 0.7 black,6,USD 3.25,$19.50,Delivered
+fn41311,2026-09-07,  Tomás Nguyen,tomas.nguyen@inbox.example,North East,NB-A5-DOT,A5 Dot Grid Notebook,2,18.50,$37.00,canceled
+fn41312,2026-09-08,Owen Delgado,OWEN.DELGADO49@EXAMPLE.ORG,NE,CRD-KRAFT-20,kraft note cards 20 pack,1,13.20,USD 13.20,DLVRD
+FN-41313,"Sep 8, 2026",  Felix Kowalski,felix.kowalski@example.net,southwest,PEN-FTN-STL,steel fountain pen,2,42.00,84.00,delivered
+#FN-41314,09/08/26,Grace Chen,grace.chen@example.com,Southwest,pln_2027_wk,2027 Weekly Planner,1,,31 USD,Delivered
+#FN-41315,"Sep 8, 2026",priya okafor,PRIYA.OKAFOR74@EXAMPLE.COM,southwest,DSK-MAT-FLT,Felt Desk Mat,2,38.60,77.2 USD,delivered 
+#FN-41316,2026-09-08,  Maya Tanaka,maya.tanaka@mail.example,Southwest,pen_gel_07,Gel Pen 0.7 Black,2,$3.25,6.50,Delivered
+FN-41317,09/08/26,diego rahman,diego.rahman@post.example,Southwest,PEN-GEL-07,gel pen 0.7 black,6,3.25,USD 19.50,delivered 
+FN-41318,8 Sep 2026,chloe varga,chloe.varga@example.org,Southwest,PLN-2027-WK,2027 Weekly Planner,1,31.00,USD 31.00,delivered 
+FN-41319,"Sep 8, 2026",Theo Haddad,theo.haddad74@example.com,SW,NB-A5-LIN,A5 Lined Notebook,2 pcs,USD 18.50,37.00,delivered 
+#FN-41320,9/8/2026,Priya Chen,priya.chen68@post.example,Midwest,PEN-FTN-STL,Steel Fountain Pen,1,,$42.00,delivered
+FN-41321,09/08/26,Priya  Okafor,PRIYA.OKAFOR@EXAMPLE.COM,southeast,PEN-FINE-SET,fineliner set of 12,1,24.90,23.90,delivered 
+FN-41322,9 Sep 2026,Leila Nguyen,LEILA.NGUYEN24@EXAMPLE.COM,Midwest,PEN-GEL-07,Gel Pen 0.7 Black,1 pcs,$3.25,3.25,Refunded
+FN-41323,09/09/26,Noah Whitaker,noah.whitaker@inbox.example,W,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,delivered 
+#FN-41324,2026-09-09,Sofia Rahman,sofia.rahman@example.org,SW,INK-BTL-BLU,bottled ink blue black 50ml,2,16.4 USD,32.80,Delivered
+#FN-41325,2026-09-09,Tomás Kowalski,tomas.kowalski@inbox.example,South east,BAG-CANVAS,Canvas Pencil Case,1 pcs,21.80,$21.80,Delivered
+FN-41326,9/9/2026,NADIA DELGADO,nadia.delgado12@inbox.example,MW,NB-A5-LIN,A5 Lined Notebook,2,USD 18.50,USD 37.00,delivered
+FN-41327,09/09/26,FELIX SILVA,felix.silva@example.org,northeast,PEN-FINE-SET,fineliner set of 12,3,24.9 USD,$74.70,delivered
+FN-41328,"Sep 9, 2026",Chloe Osei,CHLOE.OSEI56@POST.EXAMPLE,SW,DSK-MAT-FLT,Felt Desk Mat,1,38.6 USD,38.6 USD,Delivered
+FN-41329,9/10/2026,Leila Nguyen,leila.nguyen24@example.com,midwest,INK-BTL-BLU,bottled ink blue black 50ml,3,$16.40,USD 49.20,DLVRD
+FN-41330,"Sep 10, 2026",Priya Okafor,PRIYA.OKAFOR@EXAMPLE.COM,Southeast,PLN-2027-WK,2027 Weekly Planner,2,$31.00,62.00,DLVRD
+fn41331,"Sep 10, 2026",leila nguyen,leila.nguyen@mail.example,SW,PLN-2027-WK,2027 weekly planner,2,$31.00,USD 62.00,DLVRD
+FN-41332,9/10/2026,Nadia Rahman,nadia.rahman@example.net,West,nb_a5_dot,A5 Dot Grid Notebook,3,18.50,55.50,delivered 
+#FN-41333,2026-09-10,caleb chen,caleb.chen59@post.example,West Coast,DSK-MAT-FLT,Felt Desk Mat,2,38.60,77.20,Delivered
+FN-41334,9/10/2026,caleb chen,caleb.chen59@post.example,West,PEN-FTN-STL,Steel Fountain Pen,1,42.00,USD 42.00,delivered 
+FN-41335,"Sep 11, 2026",Diego Holt,diego.holt@post.example,midwest,PLN-2027-WK,2027 Weekly Planner,4,USD 31.00,USD 124.00,Cancelled
+#FN-41336,9/11/2026,Priya Okafor,priya.okafor74@example.com,SW,INK-BTL-BLU,bottled ink blue black 50ml,6,$16.40,98.40,returned
+#FN-41337,11 Sep 2026,Grace Moreau,grace.moreau@example.com,Southeast,DSK-MAT-FLT,Felt Desk Mat,4,$38.60,USD 154.40,Delivered
+FN-41338,11 Sep 2026,  Priya Chen,priya.chen68@post.example,MW,PEN-GEL-07,Gel Pen 0.7 Black,6,3.25,19.5 USD,delivered 
+#FN-41339,9/11/2026,MARCUS WHITAKER,marcus.whitaker@mail.example,NE,PEN-FINE-SET,Fineliner Set of 12,2,24.9 USD,USD 49.80,Delivered
+FN-41340,9/11/2026,  Hannah Varga,hannah.varga@example.com,southwest,PEN-GEL-07,gel pen 0.7 black,2,USD 3.25,USD 6.50,returned
+fn41341,11 Sep 2026,leila iyer,LEILA.IYER@EXAMPLE.ORG,West,PEN-FINE-SET,Fineliner Set of 12,1,24.90,USD 24.90,returned
+FN-41342,9/12/2026,Priya Okafor,priya.okafor@example.com,SE,NB-A5-LIN,A5 Lined Notebook,1,18.50,18.50,delivered 
+FN-41343,12 Sep 2026,  Yara Brennan,yara.brennan@example.com,MW,crd-kraft-20,Kraft Note Cards 20 Pack,1 pcs,13.20,13.2 USD,Delivered
+#FN-41344,2026-09-12,  Caleb Holt,caleb.holt@mail.example,MW,bag-canvas,Canvas Pencil Case,1,21.80,21.8 USD,canceled
+FN-41345,2026-09-12,diego castillo,diego.castillo@post.example,W,DSK-MAT-FLT,felt desk mat,1,$38.60,USD 38.60,DLVRD
+FN-41346,09/12/26,Chloe Varga,chloe.varga@example.org,Southwest,PEN-GEL-07,Gel Pen 0.7 Black,1,3.25 USD,3.25,delivered 
+#FN-41347,2026-09-13,THEO HADDAD,theo.haddad74@example.com,SW,PEN-GEL-07,Gel Pen 0.7 Black,2,,6.50,Delivered
+#FN-41348,2026-09-13,lucas kowalski,lucas.kowalski94@example.net,southeast,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31.00,Delivered
+FN-41349,09/13/26,Tomás Nguyen,tomas.nguyen@inbox.example,North East,NB-A5-LIN,A5 Lined Notebook,6,18.50,$111.00,delivered
+fn41350,"Sep 13, 2026",  Leila Nguyen,leila.nguyen24@example.com,Midwest,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,USD 29.50,Refunded
+FN-41351,"Sep 13, 2026",CALEB KERR,caleb.kerr@example.net,NE,nb_a5_dot,a5 dot grid notebook,1 pcs,18.50,18.50,delivered 
 FN-41352,"Sep 13, 2026",  Olivia Varga,,northeast,INK-BTL-BLU,bottled ink blue black 50ml,4,,USD 65.60,delivered
-fn41353,14 Sep 2026,  Leila Nguyen,leila.nguyen@icloud.com,Southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,3,13.20,$39.60,Delivered
-fn41354,9/14/2026,sofia patel,sofia.patel82@proton.me,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,16.4 USD,refund
-fn41355,09/14/26,HANNAH VARGA,HANNAH.VARGA@GMAIL.COM,southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.60,USD 38.60,Delivered
-FN-41356,14 Sep 2026,FELIX SILVA,felix.silva@outlook.com,North East,pln-2027-wk,2027 weekly planner,2,31.00,62 USD,returned
-#FN-41357,09/14/26,Nadia Rahman,nadia.rahman@yahoo.com,West,bag-canvas,canvas pencil case,4,21.8 USD,87.20,delivered
-FN-41358,"Sep 14, 2026",Olivia Varga,olivia.varga@icloud.com,Northeast,NB-A5-LIN,A5 Lined Notebook,6,USD 18.50,111.00,Delivered
-FN-41359,9/15/2026,Isaac Rahman,isaac.rahman@icloud.com,MW,NB-A5-DOT,A5 Dot Grid Notebook,6,,USD 111.00,Delivered
-FN-41360,09/15/26,  Ruth Ferreira,ruth.ferreira@yahoo.com,SW,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6 pcs,$13.20,89.20,Delivered
-fn41361,09/15/26,LEILA IYER,leila.iyer@outlook.com,west,ink_btl_blu,bottled ink blue black 50ml,1 pcs,16.4 USD,16.40,Delivered
-FN-41362,"Sep 15, 2026",Kenji Silva,kenji.silva@proton.me,Midwest,STK-WASHI-6,washi tape 6 pack,6,,71.70,delivered 
-FN-41363,9/15/2026,Theo Holt,theo.holt@yahoo.com,southeast,STK-WASHI-6,Washi Tape 6 Pack,3,11.95,USD 35.85,Delivered
-FN-41364,9/15/2026,Bianca Ferreira,bianca.ferreira@gmail.com,west,NB-A5-DOT,a5 dot grid notebook,1,$18.50,18.50,returned
-FN-41365,09/15/26,ethan kerr,ethan.kerr38@yahoo.com,west,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,delivered 
-fn41366,2026-09-15,Chloe  Osei,chloe.osei56@proton.me,SW,PEN-FTN-STL,Steel Fountain Pen,1,42.00,42.00,DLVRD
-fn41367,15 Sep 2026,ARJUN KERR,arjun.kerr59@proton.me,North East,PLN-2027-WK,2027 Weekly Planner,1,31.00,USD 31.00,Delivered
-fn41368,16 Sep 2026,Marcus Whitaker,marcus.whitaker@icloud.com,northeast,pen_ftn_stl,Steel Fountain Pen,1,42.00,$42.00,delivered
-fn41369,16 Sep 2026,SOFIA RAHMAN,sofia.rahman@outlook.com,SW,PEN-FINE-SET,fineliner set of 12,1,USD 24.90,24.9 USD,DLVRD
-#FN-41370,2026-09-16,  Diego Rahman,DIEGO.RAHMAN@PROTON.ME,southwest,NB-A5-LIN,A5 Lined Notebook,3,$18.50,55.5 USD,delivered 
-FN-41371,16 Sep 2026,camila holt,camila.holt@fastmail.com,southeast,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,USD 29.50,DLVRD
-fn41372,"Sep 16, 2026",Owen Nguyen,owen.nguyen87@yahoo.com,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,4,18.50,USD 74.00,delivered 
-FN-41373,9/16/2026,Caleb Chen,caleb.chen59@proton.me,W,NB-POCKET-3,pocket notebook 3 pack,1,14.75 USD,14.75,delivered 
-FN-41374,"Sep 16, 2026",  Tomás Kowalski,tomas.kowalski@fastmail.com,Southeast,pen_fine_set,Fineliner Set of 12,3,USD 24.90,USD 74.70,Delivered
-fn41375,2026-09-16,Isaac Okafor,isaac.okafor55@yahoo.com,Southwest,crd-kraft-20,Kraft Note Cards 20 Pack,3,$13.20,USD 39.60,returned
-#FN-41376,9/16/2026,Kenji  Brennan,kenji.brennan50@icloud.com,SW,BAG-CANVAS,canvas pencil case,1,21.80,21.80,DLVRD
-FN-41377,"Sep 17, 2026",Kenji  Brennan,kenji.brennan50@icloud.com,SW,nb-pocket-3,pocket notebook 3 pack,1,14.75,14.75 USD,Delivered
-FN-41378,09/17/26,Lucas Kowalski,lucas.kowalski94@yahoo.com,southeast,NB-A5-DOT,a5 dot grid notebook,1,18.5 USD,USD 18.50,canceled
-#FN-41379,09/17/26,Yara Brennan,yara.brennan@gmail.com,midwest,crd_kraft_20,kraft note cards 20 pack,2,13.2 USD,26.40,Refunded
-FN-41380,9/17/2026,Isaac Rahman,isaac.rahman@icloud.com,MW,NB-A5-LIN,A5 Lined Notebook,2,$18.50,USD 37.00,refund
-FN-41381,"Sep 17, 2026",Maya  Tanaka,MAYA.TANAKA@ICLOUD.COM,southwest,NB-A5-DOT,A5 Dot Grid Notebook,4,$18.50,74 USD,canceled
-fn41382,09/17/26,Noah O'Neill,noah.oneill@gmail.com,Southwest,NB-A5-LIN,a5 lined notebook,4,18.50,74 USD,DLVRD
-FN-41383,17 Sep 2026,  Camila Tanaka,camila.tanaka82@fastmail.com,Midwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.40,delivered
-FN-41384,2026-09-18,kenji silva,kenji.silva@fastmail.com,southwest,DSK-MAT-FLT,Felt Desk Mat,3 pcs,38.60,115.80,delivered 
-FN-41385,2026-09-18,zara kerr,zara.kerr36@fastmail.com,Midwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,USD 13.20,$13.20,delivered 
-#FN-41386,2026-09-18,  Olivia Varga,olivia.varga@icloud.com,North East,PLN-2027-WK,2027 Weekly Planner,2,31.00,63.00,Refunded
-#FN-41387,9/18/2026,GRACE SILVA,grace.silva@yahoo.com,SW,stk-washi-6,Washi Tape 6 Pack,6,,$71.70,Delivered
-FN-41388,"Sep 18, 2026",Camila Lindqvist,camila.lindqvist@outlook.com,MW,stk_washi_6,Washi Tape 6 Pack,2,11.95,23.90,returned
-#FN-41389,"Sep 18, 2026",theo holt,THEO.HOLT@YAHOO.COM,SE,PEN-FINE-SET,Fineliner Set of 12,1,USD 24.90,25.9 USD,Delivered
-#FN-41390,09/18/26,CHLOE VARGA,chloe.varga@outlook.com,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,4,13.20,52.80,refund
-#FN-41391,09/19/26,theo holt,theo.holt@yahoo.com,South east,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Delivered
-FN-41392,9/19/2026,HANNAH ABARA,HANNAH.ABARA20@OUTLOOK.COM,west,NB-A5-DOT,A5 Dot Grid Notebook,2,18.50,USD 37.00,delivered
-FN-41393,09/19/26,HANNAH ABARA,hannah.abara20@outlook.com,West,nb-a5-lin,a5 lined notebook,1,18.50,USD 18.50,delivered 
-fn41394,2026-09-19,  Yara Tanaka,YARA.TANAKA83@ICLOUD.COM,west,STK-WASHI-6,washi tape 6 pack,1 pcs,11.95,USD 11.95,DLVRD
-#FN-41395,19 Sep 2026,arjun kerr,arjun.kerr59@proton.me,northeast,NB-A5-LIN,a5 lined notebook,2,USD 18.50,$37.00,Delivered
-FN-41396,09/19/26,NOAH O'NEILL,noah.oneill@gmail.com,SW,DSK-MAT-FLT,Felt Desk Mat,1,USD 38.60,38.60,Delivered
-FN-41397,9/20/2026,Owen Delgado,owen.delgado49@outlook.com,North East,pen-gel-07,Gel Pen 0.7 Black,6,3.25 USD,$19.50,delivered
-fn41398,2026-09-20,Leila  Holt,LEILA.HOLT@GMAIL.COM,SW,ink_btl_blu,Bottled Ink Blue Black 50ml,3,16.40,49.2 USD,DLVRD
-fn41399,20 Sep 2026,  Owen Nguyen,owen.nguyen87@yahoo.com,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,42.80,delivered 
-FN-41400,2026-09-20,Isaac Rahman,ISAAC.RAHMAN@ICLOUD.COM,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,16.40,$64.60,DLVRD
-#FN-41401,21 Sep 2026,Grace  Silva,grace.silva@yahoo.com,southwest,nb-a5-lin,A5 Lined Notebook,1,18.50,$18.50,canceled
-fn41402,9/21/2026,theo haddad,theo.haddad74@gmail.com,southwest,NB-A5-LIN,A5 Lined Notebook,1,18.5 USD,18.5 USD,canceled
-fn41403,21 Sep 2026,priya okafor,priya.okafor74@gmail.com,SW,pen-fine-set,Fineliner Set of 12,6,24.9 USD,149.4 USD,canceled
-FN-41404,9/21/2026,grace chen,grace.chen@gmail.com,Southwest,NB-A5-DOT,A5 Dot Grid Notebook,4,USD 18.50,74.00,delivered
-FN-41405,2026-09-21,Tomás  Kowalski,tomas.kowalski@fastmail.com,Southeast,pen_gel_07,gel pen 0.7 black,6,3.25 USD,$19.50,delivered 
-fn41406,09/21/26,Tomás Kowalski,tomas.kowalski@fastmail.com,southeast,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,USD 74.00,DLVRD
-fn41407,"Sep 21, 2026",Ruth  Ferreira,ruth.ferreira@yahoo.com,Southwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,$16.40,32.80,delivered 
-FN-41408,21 Sep 2026,Hannah Abara,hannah.abara20@outlook.com,West Coast,NB-POCKET-3,Pocket Notebook 3 Pack,2,14.75,USD 29.50,Cancelled
-FN-41409,2026-09-21,LUCAS CASTILLO,LUCAS.CASTILLO@ICLOUD.COM,Northeast,BAG-CANVAS,canvas pencil case,1,$21.80,21.80,Delivered
-#FN-41410,09/21/26,  Caleb Holt,CALEB.HOLT@ICLOUD.COM,MW,DSK-MAT-FLT,Felt Desk Mat,6 pcs,$38.60,USD 231.60,delivered 
-FN-41411,"Sep 22, 2026",MAYA TANAKA,MAYA.TANAKA@ICLOUD.COM,SW,nb-a5-lin,A5 Lined Notebook,2,18.50,37.00,delivered 
-fn41412,9/22/2026,  Diego Holt,diego.holt@proton.me,Mid West,PLN-2027-WK,2027 Weekly Planner,6,$31.00,186.00,canceled
-FN-41413,"Sep 22, 2026",NADIA OKAFOR,nadia.okafor@gmail.com,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,1,$18.50,$18.50,Refunded
-#FN-41414,"Sep 22, 2026",  Diego Rahman,diego.rahman@proton.me,Southeast,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,11.95,refund
-FN-41415,22 Sep 2026,Nadia Delgado,nadia.delgado12@fastmail.com,Midwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,$16.40,delivered
-FN-41416,22 Sep 2026,noah whitaker,noah.whitaker@fastmail.com,west,nb-a5-lin,A5 Lined Notebook,2,USD 18.50,$37.00,delivered 
-#FN-41417,9/22/2026,MAYA TANAKA,maya.tanaka@icloud.com,SW,pen-fine-set,fineliner set of 12,2,24.9 USD,$49.80,Refunded
-fn41418,22 Sep 2026,MAYA TANAKA,maya.tanaka@icloud.con,southwest,nb-a5-lin,A5 Lined Notebook,1,USD 18.50,18.50,Delivered
-fn41419,22 Sep 2026,Maya Tanaka,maya.tanaka@icloud.com,SW,CRD-KRAFT-20,kraft note cards 20 pack,1,,$13.20,Delivered
-fn41420,09/23/26,ARJUN KERR,arjun.kerr59@proton.me,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,1,$18.50,$18.50,DLVRD
+fn41353,14 Sep 2026,  Leila Nguyen,leila.nguyen@mail.example,Southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,3,13.20,$39.60,Delivered
+fn41354,9/14/2026,sofia patel,sofia.patel82@post.example,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,16.4 USD,refund
+fn41355,09/14/26,HANNAH VARGA,HANNAH.VARGA@EXAMPLE.COM,southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.60,USD 38.60,Delivered
+FN-41356,14 Sep 2026,FELIX SILVA,felix.silva@example.org,North East,pln-2027-wk,2027 weekly planner,2,31.00,62 USD,returned
+#FN-41357,09/14/26,Nadia Rahman,nadia.rahman@example.net,West,bag-canvas,canvas pencil case,4,21.8 USD,87.20,delivered
+FN-41358,"Sep 14, 2026",Olivia Varga,olivia.varga@mail.example,Northeast,NB-A5-LIN,A5 Lined Notebook,6,USD 18.50,111.00,Delivered
+FN-41359,9/15/2026,Isaac Rahman,isaac.rahman@mail.example,MW,NB-A5-DOT,A5 Dot Grid Notebook,6,,USD 111.00,Delivered
+FN-41360,09/15/26,  Ruth Ferreira,ruth.ferreira@example.net,SW,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6 pcs,$13.20,89.20,Delivered
+fn41361,09/15/26,LEILA IYER,leila.iyer@example.org,west,ink_btl_blu,bottled ink blue black 50ml,1 pcs,16.4 USD,16.40,Delivered
+FN-41362,"Sep 15, 2026",Kenji Silva,kenji.silva@post.example,Midwest,STK-WASHI-6,washi tape 6 pack,6,,71.70,delivered 
+FN-41363,9/15/2026,Theo Holt,theo.holt@example.net,southeast,STK-WASHI-6,Washi Tape 6 Pack,3,11.95,USD 35.85,Delivered
+FN-41364,9/15/2026,Bianca Ferreira,bianca.ferreira@example.com,west,NB-A5-DOT,a5 dot grid notebook,1,$18.50,18.50,returned
+FN-41365,09/15/26,ethan kerr,ethan.kerr38@example.net,west,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,delivered 
+fn41366,2026-09-15,Chloe  Osei,chloe.osei56@post.example,SW,PEN-FTN-STL,Steel Fountain Pen,1,42.00,42.00,DLVRD
+fn41367,15 Sep 2026,ARJUN KERR,arjun.kerr59@post.example,North East,PLN-2027-WK,2027 Weekly Planner,1,31.00,USD 31.00,Delivered
+fn41368,16 Sep 2026,Marcus Whitaker,marcus.whitaker@mail.example,northeast,pen_ftn_stl,Steel Fountain Pen,1,42.00,$42.00,delivered
+fn41369,16 Sep 2026,SOFIA RAHMAN,sofia.rahman@example.org,SW,PEN-FINE-SET,fineliner set of 12,1,USD 24.90,24.9 USD,DLVRD
+#FN-41370,2026-09-16,  Diego Rahman,DIEGO.RAHMAN@POST.EXAMPLE,southwest,NB-A5-LIN,A5 Lined Notebook,3,$18.50,55.5 USD,delivered 
+FN-41371,16 Sep 2026,camila holt,camila.holt@inbox.example,southeast,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,USD 29.50,DLVRD
+fn41372,"Sep 16, 2026",Owen Nguyen,owen.nguyen87@example.net,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,4,18.50,USD 74.00,delivered 
+FN-41373,9/16/2026,Caleb Chen,caleb.chen59@post.example,W,NB-POCKET-3,pocket notebook 3 pack,1,14.75 USD,14.75,delivered 
+FN-41374,"Sep 16, 2026",  Tomás Kowalski,tomas.kowalski@inbox.example,Southeast,pen_fine_set,Fineliner Set of 12,3,USD 24.90,USD 74.70,Delivered
+fn41375,2026-09-16,Isaac Okafor,isaac.okafor55@example.net,Southwest,crd-kraft-20,Kraft Note Cards 20 Pack,3,$13.20,USD 39.60,returned
+#FN-41376,9/16/2026,Kenji  Brennan,kenji.brennan50@mail.example,SW,BAG-CANVAS,canvas pencil case,1,21.80,21.80,DLVRD
+FN-41377,"Sep 17, 2026",Kenji  Brennan,kenji.brennan50@mail.example,SW,nb-pocket-3,pocket notebook 3 pack,1,14.75,14.75 USD,Delivered
+FN-41378,09/17/26,Lucas Kowalski,lucas.kowalski94@example.net,southeast,NB-A5-DOT,a5 dot grid notebook,1,18.5 USD,USD 18.50,canceled
+#FN-41379,09/17/26,Yara Brennan,yara.brennan@example.com,midwest,crd_kraft_20,kraft note cards 20 pack,2,13.2 USD,26.40,Refunded
+FN-41380,9/17/2026,Isaac Rahman,isaac.rahman@mail.example,MW,NB-A5-LIN,A5 Lined Notebook,2,$18.50,USD 37.00,refund
+FN-41381,"Sep 17, 2026",Maya  Tanaka,MAYA.TANAKA@MAIL.EXAMPLE,southwest,NB-A5-DOT,A5 Dot Grid Notebook,4,$18.50,74 USD,canceled
+fn41382,09/17/26,Noah O'Neill,noah.oneill@example.com,Southwest,NB-A5-LIN,a5 lined notebook,4,18.50,74 USD,DLVRD
+FN-41383,17 Sep 2026,  Camila Tanaka,camila.tanaka82@inbox.example,Midwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.40,delivered
+FN-41384,2026-09-18,kenji silva,kenji.silva@inbox.example,southwest,DSK-MAT-FLT,Felt Desk Mat,3 pcs,38.60,115.80,delivered 
+FN-41385,2026-09-18,zara kerr,zara.kerr36@inbox.example,Midwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,1,USD 13.20,$13.20,delivered 
+#FN-41386,2026-09-18,  Olivia Varga,olivia.varga@mail.example,North East,PLN-2027-WK,2027 Weekly Planner,2,31.00,63.00,Refunded
+#FN-41387,9/18/2026,GRACE SILVA,grace.silva@example.net,SW,stk-washi-6,Washi Tape 6 Pack,6,,$71.70,Delivered
+FN-41388,"Sep 18, 2026",Camila Lindqvist,camila.lindqvist@example.org,MW,stk_washi_6,Washi Tape 6 Pack,2,11.95,23.90,returned
+#FN-41389,"Sep 18, 2026",theo holt,THEO.HOLT@EXAMPLE.NET,SE,PEN-FINE-SET,Fineliner Set of 12,1,USD 24.90,25.9 USD,Delivered
+#FN-41390,09/18/26,CHLOE VARGA,chloe.varga@example.org,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,4,13.20,52.80,refund
+#FN-41391,09/19/26,theo holt,theo.holt@example.net,South east,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Delivered
+FN-41392,9/19/2026,HANNAH ABARA,HANNAH.ABARA20@EXAMPLE.ORG,west,NB-A5-DOT,A5 Dot Grid Notebook,2,18.50,USD 37.00,delivered
+FN-41393,09/19/26,HANNAH ABARA,hannah.abara20@example.org,West,nb-a5-lin,a5 lined notebook,1,18.50,USD 18.50,delivered 
+fn41394,2026-09-19,  Yara Tanaka,YARA.TANAKA83@MAIL.EXAMPLE,west,STK-WASHI-6,washi tape 6 pack,1 pcs,11.95,USD 11.95,DLVRD
+#FN-41395,19 Sep 2026,arjun kerr,arjun.kerr59@post.example,northeast,NB-A5-LIN,a5 lined notebook,2,USD 18.50,$37.00,Delivered
+FN-41396,09/19/26,NOAH O'NEILL,noah.oneill@example.com,SW,DSK-MAT-FLT,Felt Desk Mat,1,USD 38.60,38.60,Delivered
+FN-41397,9/20/2026,Owen Delgado,owen.delgado49@example.org,North East,pen-gel-07,Gel Pen 0.7 Black,6,3.25 USD,$19.50,delivered
+fn41398,2026-09-20,Leila  Holt,LEILA.HOLT@EXAMPLE.COM,SW,ink_btl_blu,Bottled Ink Blue Black 50ml,3,16.40,49.2 USD,DLVRD
+fn41399,20 Sep 2026,  Owen Nguyen,owen.nguyen87@example.net,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,42.80,delivered 
+FN-41400,2026-09-20,Isaac Rahman,ISAAC.RAHMAN@MAIL.EXAMPLE,MW,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,16.40,$64.60,DLVRD
+#FN-41401,21 Sep 2026,Grace  Silva,grace.silva@example.net,southwest,nb-a5-lin,A5 Lined Notebook,1,18.50,$18.50,canceled
+fn41402,9/21/2026,theo haddad,theo.haddad74@example.com,southwest,NB-A5-LIN,A5 Lined Notebook,1,18.5 USD,18.5 USD,canceled
+fn41403,21 Sep 2026,priya okafor,priya.okafor74@example.com,SW,pen-fine-set,Fineliner Set of 12,6,24.9 USD,149.4 USD,canceled
+FN-41404,9/21/2026,grace chen,grace.chen@example.com,Southwest,NB-A5-DOT,A5 Dot Grid Notebook,4,USD 18.50,74.00,delivered
+FN-41405,2026-09-21,Tomás  Kowalski,tomas.kowalski@inbox.example,Southeast,pen_gel_07,gel pen 0.7 black,6,3.25 USD,$19.50,delivered 
+fn41406,09/21/26,Tomás Kowalski,tomas.kowalski@inbox.example,southeast,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,USD 74.00,DLVRD
+fn41407,"Sep 21, 2026",Ruth  Ferreira,ruth.ferreira@example.net,Southwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,$16.40,32.80,delivered 
+FN-41408,21 Sep 2026,Hannah Abara,hannah.abara20@example.org,West Coast,NB-POCKET-3,Pocket Notebook 3 Pack,2,14.75,USD 29.50,Cancelled
+FN-41409,2026-09-21,LUCAS CASTILLO,LUCAS.CASTILLO@MAIL.EXAMPLE,Northeast,BAG-CANVAS,canvas pencil case,1,$21.80,21.80,Delivered
+#FN-41410,09/21/26,  Caleb Holt,CALEB.HOLT@MAIL.EXAMPLE,MW,DSK-MAT-FLT,Felt Desk Mat,6 pcs,$38.60,USD 231.60,delivered 
+FN-41411,"Sep 22, 2026",MAYA TANAKA,MAYA.TANAKA@MAIL.EXAMPLE,SW,nb-a5-lin,A5 Lined Notebook,2,18.50,37.00,delivered 
+fn41412,9/22/2026,  Diego Holt,diego.holt@post.example,Mid West,PLN-2027-WK,2027 Weekly Planner,6,$31.00,186.00,canceled
+FN-41413,"Sep 22, 2026",NADIA OKAFOR,nadia.okafor@example.com,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,1,$18.50,$18.50,Refunded
+#FN-41414,"Sep 22, 2026",  Diego Rahman,diego.rahman@post.example,Southeast,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,11.95,refund
+FN-41415,22 Sep 2026,Nadia Delgado,nadia.delgado12@inbox.example,Midwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,$16.40,delivered
+FN-41416,22 Sep 2026,noah whitaker,noah.whitaker@inbox.example,west,nb-a5-lin,A5 Lined Notebook,2,USD 18.50,$37.00,delivered 
+#FN-41417,9/22/2026,MAYA TANAKA,maya.tanaka@mail.example,SW,pen-fine-set,fineliner set of 12,2,24.9 USD,$49.80,Refunded
+fn41418,22 Sep 2026,MAYA TANAKA,maya.tanaka@mail.example,southwest,nb-a5-lin,A5 Lined Notebook,1,USD 18.50,18.50,Delivered
+fn41419,22 Sep 2026,Maya Tanaka,maya.tanaka@mail.example,SW,CRD-KRAFT-20,kraft note cards 20 pack,1,,$13.20,Delivered
+fn41420,09/23/26,ARJUN KERR,arjun.kerr59@post.example,Northeast,NB-A5-DOT,A5 Dot Grid Notebook,1,$18.50,$18.50,DLVRD
 ,,,,,,,,,,
-FN-41421,09/23/26,Kenji  Silva,kenji.silva@proton.me,midwest,nb-a5-dot,A5 Dot Grid Notebook,1 pcs,$18.50,18.50,Delivered
-#FN-41422,"Sep 23, 2026",Maya Tanaka,maya.tanaka@icloud.com,SW,PEN-FINE-SET,Fineliner Set of 12,6,$24.90,149.40,Cancelled
-fn41423,23 Sep 2026,Ethan Kerr,ethan.kerr38@yahoo.com,W,STK-WASHI-6,washi tape 6 pack,4,11.95 USD,USD 47.80,delivered 
-#FN-41424,9/23/2026,Arjun  Kerr,arjun.kerr59@proton.me,North East,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,delivered 
-fn41425,2026-09-23,hannah abara,hannah.abara@fastmail.com,North East,NB-POCKET-3,pocket notebook 3 pack,1,USD 14.75,$14.75,canceled
-fn41425,2026-09-23,hannah abara,hannah.abara@fastmail.com,North East,NB-POCKET-3,pocket notebook 3 pack,1,USD 14.75,$14.75,canceled
-fn41426,2026-09-23,Kenji Silva,kenji.silva@proton.me,Midwest,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75,$88.50,Delivered
-FN-41427,09/23/26,PRIYA OKAFOR,priya.okafor@gmail.com,SE,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,16.40,delivered 
+FN-41421,09/23/26,Kenji  Silva,kenji.silva@post.example,midwest,nb-a5-dot,A5 Dot Grid Notebook,1 pcs,$18.50,18.50,Delivered
+#FN-41422,"Sep 23, 2026",Maya Tanaka,maya.tanaka@mail.example,SW,PEN-FINE-SET,Fineliner Set of 12,6,$24.90,149.40,Cancelled
+fn41423,23 Sep 2026,Ethan Kerr,ethan.kerr38@example.net,W,STK-WASHI-6,washi tape 6 pack,4,11.95 USD,USD 47.80,delivered 
+#FN-41424,9/23/2026,Arjun  Kerr,arjun.kerr59@post.example,North East,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,delivered 
+fn41425,2026-09-23,hannah abara,hannah.abara@inbox.example,North East,NB-POCKET-3,pocket notebook 3 pack,1,USD 14.75,$14.75,canceled
+fn41425,2026-09-23,hannah abara,hannah.abara@inbox.example,North East,NB-POCKET-3,pocket notebook 3 pack,1,USD 14.75,$14.75,canceled
+fn41426,2026-09-23,Kenji Silva,kenji.silva@post.example,Midwest,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75,$88.50,Delivered
+FN-41427,09/23/26,PRIYA OKAFOR,priya.okafor@example.com,SE,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,16.40,delivered 
 fn41428,2026-09-23,  Priya Okafor,,SE,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,canceled
-#FN-41429,2026-09-23,isaac rahman,isaac.rahman@icloud.com,MW,PEN-FINE-SET,fineliner set of 12,2,USD 24.90,49.80,canceled
-FN-41430,9/24/2026,NOAH O'NEILL,noah.oneill@gmail.com,southwest,PLN-2027-WK,2027 Weekly Planner,3 pcs,31 USD,93.00,canceled
-FN-41431,24 Sep 2026,Camila Tanaka,camila.tanaka82@fastmail.com,Mid West,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75 USD,14.75,Delivered
-#FN-41432,09/24/26,Kenji  Silva,KENJI.SILVA@PROTON.ME,midwest,pen-fine-set,Fineliner Set of 12,2,USD 24.90,49.8 USD,delivered
-FN-41433,"Sep 24, 2026",  Priya Okafor,priya.okafor@gmail.com,southeast,crd-kraft-20,Kraft Note Cards 20 Pack,3 pcs,13.2 USD,39.60,DLVRD
-FN-41434,24 Sep 2026,  Lucas Castillo,lucas.castillo@icloud.com,NE,PLN-2027-WK,2027 Weekly Planner,1 pcs,$31.00,31.00,DLVRD
-#FN-41435,"Sep 24, 2026",NOAH O'NEILL,noah.oneill@gmail.com,southwest,NB-A5-DOT,A5 Dot Grid Notebook,1,USD 18.50,18.5 USD,delivered 
-FN-41436,9/24/2026,Lucas Castillo,lucas.castillo@icloud.com,NE,NB-POCKET-3,pocket notebook 3 pack,2,14.75,29.5 USD,Delivered
-FN-41437,"Sep 24, 2026",Kenji  Silva,kenji.silva@fastmail.com,southwest,NB-A5-DOT,A5 Dot Grid Notebook,6,18.50,111.00,DLVRD
-FN-41438,"Sep 24, 2026",  Priya Okafor,priya.okafor74@gmail.com,southwest,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,$14.75,Cancelled
-FN-41439,2026-09-25,GRACE MOREAU,grace.moreau@gmail.com,SE,PEN-GEL-07,Gel Pen 0.7 Black,1,3.25 USD,USD 3.25,sent
-FN-41440,9/25/2026,Bianca  Tanaka,bianca.tanaka@yahoo.com,Midwest,BAG-CANVAS,Canvas Pencil Case,2,$21.80,USD 43.60,delivered 
-#FN-41441,09/25/26,CAMILA TANAKA,CAMILA.TANAKA82@FASTMAIL.COM,MW,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered
-FN-41442,25 Sep 2026,Owen  Nguyen,owen.nguyen87@yahoo.com,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,26.40,refund
-fn41443,25 Sep 2026,bianca ferreira,bianca.ferreira@gmail.com,West Coast,STK-WASHI-6,Washi Tape 6 Pack,3 pcs,$11.95,36.85,refund
-#FN-41444,09/25/26,priya chen,priya.chen68@proton.me,MW,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,$11.95,Shiped
-FN-41445,9/25/2026,Caleb Holt,caleb.holt@icloud.com,midwest,NB-A5-LIN,A5 Lined Notebook,1,USD 18.50,18.50,Shipped
-FN-41445,9/25/2026,Caleb Holt,caleb.holt@icloud.com,midwest,NB-A5-LIN,A5 Lined Notebook,1,USD 18.50,18.50,Shipped
-#FN-41446,"Sep 26, 2026",CHLOE VARGA,chloe.varga@outlook.con,Southwest,NB-POCKET-3,Pocket Notebook 3 Pack,2,USD 14.75,USD 29.50,SHIPPED 
-fn41447,26 Sep 2026,Lucas  Silva,lucas.silva@fastmail.com,Southwest,stk_washi_6,Washi Tape 6 Pack,1,USD 11.95,11.95 USD,delivered
-#FN-41448,09/26/26,Yara  Lindqvist,yara.lindqvist16@yahoo.com,southeast,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75,88.5 USD,refund
-fn41449,2026-09-26,  Kenji Brennan,kenji.brennan50@icloud.com,SW,NB-A5-LIN,A5 Lined Notebook,6 pcs,$18.50,111.00,Shiped
-FN-41450,9/26/2026,Leila  Nguyen,leila.nguyen24@gmail.com,Mid West,pen_ftn_stl,steel fountain pen,1,42 USD,$42.00,delivered 
-fn41451,27 Sep 2026,maya mensah,maya.mensah@fastmail.com,southwest,nb_a5_lin,A5 Lined Notebook,1,18.5 USD,18.50,returned
-fn41451,27 Sep 2026,maya mensah,maya.mensah@fastmail.com,southwest,nb_a5_lin,A5 Lined Notebook,1,18.5 USD,18.50,returned
-FN-41452,27 Sep 2026,  Isaac Rahman,isaac.rahman@icloud.com,Midwest,PEN-FINE-SET,Fineliner Set of 12,1,24.90,$24.90,returned
-FN-41453,09/27/26,Isaac  Rahman,isaac.rahman@icloud.com,midwest,PEN-FINE-SET,Fineliner Set of 12,2,24.90,49.80,SHIPPED 
-FN-41454,"Sep 27, 2026",nadia rahman,nadia.rahman@yahoo.com,West Coast,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,11.95,Shiped
-FN-41455,2026-09-27,Maya  Tanaka,MAYA.TANAKA@ICLOUD.COM,Southwest,nb_a5_dot,A5 Dot Grid Notebook,3,18.50,55.5 USD,Delivered
-fn41456,09/27/26,THEO HOLT,theo.holt@yahoo.com,southeast,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,24.9 USD,sent
-fn41457,9/28/2026,Lucas Kowalski,lucas.kowalski94@yahoo.com,South east,nb_pocket_3,Pocket Notebook 3 Pack,1,,$14.75,DLVRD
-#FN-41458,"Sep 28, 2026",olivia varga,olivia.varga@icloud.con,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,Shipped
-#FN-41458,"Sep 28, 2026",olivia varga,olivia.varga@icloud.con,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,Shipped
-FN-41459,09/28/26,Camila Tanaka,camila.tanaka82@fastmail.com,midwest,stk_washi_6,washi tape 6 pack,1,11.95 USD,11.95,delivered
-#FN-41460,9/28/2026,Yara Tanaka,YARA.TANAKA83@ICLOUD.COM,west,pln-2027-wk,2027 weekly planner,2,31.00,USD 62.00,shipped
-fn41461,09/28/26,Caleb Kerr,caleb.kerr@yahoo.com,NE,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.40,refund
-fn41462,"Sep 28, 2026",Ethan  Kerr,ethan.kerr38@yahoo.com,West,nb-a5-lin,A5 Lined Notebook,1,18.5 USD,18.50,DLVRD
-fn41463,"Sep 28, 2026",Zara Kerr,zara.kerr36@fastmail.com,MW,DSK-MAT-FLT,felt desk mat,6,$38.60,$231.60,returned
-FN-41464,09/28/26,Priya  Brennan,PRIYA.BRENNAN@ICLOUD.COM,Southeast,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31 USD,DLVRD
-FN-41465,"Sep 28, 2026",Felix Silva,felix.silva@outlook.com,northeast,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,24.9 USD,Refunded
-#FN-41466,9/28/2026,Theo Holt,theo.holt@yahoo.com,Southeast,NB-A5-LIN,a5 lined notebook,1,18.50,$18.50,sent
-#FN-41466,9/28/2026,Theo Holt,theo.holt@yahoo.com,Southeast,NB-A5-LIN,a5 lined notebook,1,18.50,$18.50,sent
-FN-41467,9/28/2026,PRIYA OKAFOR,priya.okafor74@gmail.com,SW,PEN-FINE-SET,Fineliner Set of 12,2,USD 24.90,49.8 USD,Shipped
-FN-41468,29 Sep 2026,camila holt,camila.holt@fastmail.com,South east,BAG-CANVAS,Canvas Pencil Case,2,USD 21.80,43.60,shipped
-fn41469,29 Sep 2026,CALEB KERR,caleb.kerr@yahoo.com,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,USD 16.40,65.6 USD,Shiped
-FN-41470,29 Sep 2026,Owen Nguyen,owen.nguyen87@yahoo.com,Northeast,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,74 USD,Shipped
-#FN-41471,2026-09-29,tomás nguyen,tomas.nguyen@fastmail.com,Northeast,PLN-2027-WK,2027 Weekly Planner,4,31 USD,124 USD,refund
-FN-41472,2026-09-29,hannah varga,hannah.varga@gmail.com,Southwest,NB-A5-DOT,A5 Dot Grid Notebook,3,18.5 USD,$55.50,DLVRD
-FN-41473,"Sep 29, 2026",leila nguyen,leila.nguyen@icloud.com,Southwest,BAG-CANVAS,Canvas Pencil Case,1,21.8 USD,$21.80,SHIPPED 
-FN-41474,2026-09-29,  Yara Tanaka,yara.tanaka83@icloud.com,west,PLN-2027-WK,2027 weekly planner,6 pcs,31.00,186 USD,delivered 
-#FN-41475,9/29/2026,  Maya Mensah,maya.mensah@fastmail.com,SW,pen-gel-07,Gel Pen 0.7 Black,2,USD 3.25,6.5 USD,Refunded
-#FN-41476,"Sep 29, 2026",leila nguyen,leila.nguyen24@gmail.com,Midwest,BAG-CANVAS,canvas pencil case,6 pcs,USD 21.80,$130.80,refund
-FN-41477,"Sep 29, 2026",noah silva,NOAH.SILVA@FASTMAIL.COM,NE,NB-POCKET-3,pocket notebook 3 pack,1,14.75,$14.75,sent
-FN-41478,09/29/26,hannah abara,HANNAH.ABARA@FASTMAIL.COM,NE,DSK-MAT-FLT,felt desk mat,1,$38.60,USD 38.60,sent
-FN-41479,2026-09-30,GRACE CHEN,grace.chen@gmail.com,Southwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,$16.40,USD 65.60,sent
-#FN-41480,"Sep 30, 2026",diego rahman,diego.rahman@proton.me,SW,PLN-2027-WK,2027 weekly planner,6,31 USD,186.00,sent
-fn41481,30 Sep 2026,Diego  Holt,diego.holt@proton.me,Midwest,STK-WASHI-6,Washi Tape 6 Pack,6,USD 11.95,71.70,shipped
-fn41482,2026-09-30,  Maya Tanaka,maya.tanaka@icloud.com,southwest,PEN-GEL-07,gel pen 0.7 black,2 pcs,$3.25,USD 6.50,returned
-fn41483,"Sep 30, 2026",HANNAH ABARA,hannah.abara@fastmail.com,NE,NB-A5-DOT,a5 dot grid notebook,1,USD 18.50,18.50,Refunded
-#FN-41484,09/30/26,Priya Okafor,priya.okafor@gmail.com,SE,PEN-GEL-07,Gel Pen 0.7 Black,6,3.25 USD,19.50,shipped
-FN-41485,30 Sep 2026,  Grace Chen,grace.chen@gmail.com,SW,dsk-mat-flt,Felt Desk Mat,3,38.60,USD 115.80,Delivered
-FN-41486,10/1/2026,kenji silva,kenji.silva@proton.me,Mid West,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,13.75,pending
-fn41487,1 Oct 2026,Priya Brennan,priya.brennan@icloud.com,South east,NB-POCKET-3,pocket notebook 3 pack,3,USD 14.75,44.25,processing
+#FN-41429,2026-09-23,isaac rahman,isaac.rahman@mail.example,MW,PEN-FINE-SET,fineliner set of 12,2,USD 24.90,49.80,canceled
+FN-41430,9/24/2026,NOAH O'NEILL,noah.oneill@example.com,southwest,PLN-2027-WK,2027 Weekly Planner,3 pcs,31 USD,93.00,canceled
+FN-41431,24 Sep 2026,Camila Tanaka,camila.tanaka82@inbox.example,Mid West,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75 USD,14.75,Delivered
+#FN-41432,09/24/26,Kenji  Silva,KENJI.SILVA@POST.EXAMPLE,midwest,pen-fine-set,Fineliner Set of 12,2,USD 24.90,49.8 USD,delivered
+FN-41433,"Sep 24, 2026",  Priya Okafor,priya.okafor@example.com,southeast,crd-kraft-20,Kraft Note Cards 20 Pack,3 pcs,13.2 USD,39.60,DLVRD
+FN-41434,24 Sep 2026,  Lucas Castillo,lucas.castillo@mail.example,NE,PLN-2027-WK,2027 Weekly Planner,1 pcs,$31.00,31.00,DLVRD
+#FN-41435,"Sep 24, 2026",NOAH O'NEILL,noah.oneill@example.com,southwest,NB-A5-DOT,A5 Dot Grid Notebook,1,USD 18.50,18.5 USD,delivered 
+FN-41436,9/24/2026,Lucas Castillo,lucas.castillo@mail.example,NE,NB-POCKET-3,pocket notebook 3 pack,2,14.75,29.5 USD,Delivered
+FN-41437,"Sep 24, 2026",Kenji  Silva,kenji.silva@inbox.example,southwest,NB-A5-DOT,A5 Dot Grid Notebook,6,18.50,111.00,DLVRD
+FN-41438,"Sep 24, 2026",  Priya Okafor,priya.okafor74@example.com,southwest,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,$14.75,Cancelled
+FN-41439,2026-09-25,GRACE MOREAU,grace.moreau@example.com,SE,PEN-GEL-07,Gel Pen 0.7 Black,1,3.25 USD,USD 3.25,sent
+FN-41440,9/25/2026,Bianca  Tanaka,bianca.tanaka@example.net,Midwest,BAG-CANVAS,Canvas Pencil Case,2,$21.80,USD 43.60,delivered 
+#FN-41441,09/25/26,CAMILA TANAKA,CAMILA.TANAKA82@INBOX.EXAMPLE,MW,NB-A5-DOT,A5 Dot Grid Notebook,1,18.50,18.50,delivered
+FN-41442,25 Sep 2026,Owen  Nguyen,owen.nguyen87@example.net,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,16.40,26.40,refund
+fn41443,25 Sep 2026,bianca ferreira,bianca.ferreira@example.com,West Coast,STK-WASHI-6,Washi Tape 6 Pack,3 pcs,$11.95,36.85,refund
+#FN-41444,09/25/26,priya chen,priya.chen68@post.example,MW,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,$11.95,Shiped
+FN-41445,9/25/2026,Caleb Holt,caleb.holt@mail.example,midwest,NB-A5-LIN,A5 Lined Notebook,1,USD 18.50,18.50,Shipped
+FN-41445,9/25/2026,Caleb Holt,caleb.holt@mail.example,midwest,NB-A5-LIN,A5 Lined Notebook,1,USD 18.50,18.50,Shipped
+#FN-41446,"Sep 26, 2026",CHLOE VARGA,chloe.varga@example.org,Southwest,NB-POCKET-3,Pocket Notebook 3 Pack,2,USD 14.75,USD 29.50,SHIPPED 
+fn41447,26 Sep 2026,Lucas  Silva,lucas.silva@inbox.example,Southwest,stk_washi_6,Washi Tape 6 Pack,1,USD 11.95,11.95 USD,delivered
+#FN-41448,09/26/26,Yara  Lindqvist,yara.lindqvist16@example.net,southeast,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75,88.5 USD,refund
+fn41449,2026-09-26,  Kenji Brennan,kenji.brennan50@mail.example,SW,NB-A5-LIN,A5 Lined Notebook,6 pcs,$18.50,111.00,Shiped
+FN-41450,9/26/2026,Leila  Nguyen,leila.nguyen24@example.com,Mid West,pen_ftn_stl,steel fountain pen,1,42 USD,$42.00,delivered 
+fn41451,27 Sep 2026,maya mensah,maya.mensah@inbox.example,southwest,nb_a5_lin,A5 Lined Notebook,1,18.5 USD,18.50,returned
+fn41451,27 Sep 2026,maya mensah,maya.mensah@inbox.example,southwest,nb_a5_lin,A5 Lined Notebook,1,18.5 USD,18.50,returned
+FN-41452,27 Sep 2026,  Isaac Rahman,isaac.rahman@mail.example,Midwest,PEN-FINE-SET,Fineliner Set of 12,1,24.90,$24.90,returned
+FN-41453,09/27/26,Isaac  Rahman,isaac.rahman@mail.example,midwest,PEN-FINE-SET,Fineliner Set of 12,2,24.90,49.80,SHIPPED 
+FN-41454,"Sep 27, 2026",nadia rahman,nadia.rahman@example.net,West Coast,STK-WASHI-6,Washi Tape 6 Pack,1,$11.95,11.95,Shiped
+FN-41455,2026-09-27,Maya  Tanaka,MAYA.TANAKA@MAIL.EXAMPLE,Southwest,nb_a5_dot,A5 Dot Grid Notebook,3,18.50,55.5 USD,Delivered
+fn41456,09/27/26,THEO HOLT,theo.holt@example.net,southeast,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,24.9 USD,sent
+fn41457,9/28/2026,Lucas Kowalski,lucas.kowalski94@example.net,South east,nb_pocket_3,Pocket Notebook 3 Pack,1,,$14.75,DLVRD
+#FN-41458,"Sep 28, 2026",olivia varga,olivia.varga@mail.example,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,Shipped
+#FN-41458,"Sep 28, 2026",olivia varga,olivia.varga@mail.example,North East,INK-BTL-BLU,Bottled Ink Blue Black 50ml,2,16.40,32.80,Shipped
+FN-41459,09/28/26,Camila Tanaka,camila.tanaka82@inbox.example,midwest,stk_washi_6,washi tape 6 pack,1,11.95 USD,11.95,delivered
+#FN-41460,9/28/2026,Yara Tanaka,YARA.TANAKA83@MAIL.EXAMPLE,west,pln-2027-wk,2027 weekly planner,2,31.00,USD 62.00,shipped
+fn41461,09/28/26,Caleb Kerr,caleb.kerr@example.net,NE,INK-BTL-BLU,Bottled Ink Blue Black 50ml,1,$16.40,16.40,refund
+fn41462,"Sep 28, 2026",Ethan  Kerr,ethan.kerr38@example.net,West,nb-a5-lin,A5 Lined Notebook,1,18.5 USD,18.50,DLVRD
+fn41463,"Sep 28, 2026",Zara Kerr,zara.kerr36@inbox.example,MW,DSK-MAT-FLT,felt desk mat,6,$38.60,$231.60,returned
+FN-41464,09/28/26,Priya  Brennan,PRIYA.BRENNAN@MAIL.EXAMPLE,Southeast,PLN-2027-WK,2027 Weekly Planner,1,USD 31.00,31 USD,DLVRD
+FN-41465,"Sep 28, 2026",Felix Silva,felix.silva@example.org,northeast,PEN-FINE-SET,Fineliner Set of 12,1,$24.90,24.9 USD,Refunded
+#FN-41466,9/28/2026,Theo Holt,theo.holt@example.net,Southeast,NB-A5-LIN,a5 lined notebook,1,18.50,$18.50,sent
+#FN-41466,9/28/2026,Theo Holt,theo.holt@example.net,Southeast,NB-A5-LIN,a5 lined notebook,1,18.50,$18.50,sent
+FN-41467,9/28/2026,PRIYA OKAFOR,priya.okafor74@example.com,SW,PEN-FINE-SET,Fineliner Set of 12,2,USD 24.90,49.8 USD,Shipped
+FN-41468,29 Sep 2026,camila holt,camila.holt@inbox.example,South east,BAG-CANVAS,Canvas Pencil Case,2,USD 21.80,43.60,shipped
+fn41469,29 Sep 2026,CALEB KERR,caleb.kerr@example.net,Northeast,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,USD 16.40,65.6 USD,Shiped
+FN-41470,29 Sep 2026,Owen Nguyen,owen.nguyen87@example.net,Northeast,NB-A5-LIN,A5 Lined Notebook,4,18.5 USD,74 USD,Shipped
+#FN-41471,2026-09-29,tomás nguyen,tomas.nguyen@inbox.example,Northeast,PLN-2027-WK,2027 Weekly Planner,4,31 USD,124 USD,refund
+FN-41472,2026-09-29,hannah varga,hannah.varga@example.com,Southwest,NB-A5-DOT,A5 Dot Grid Notebook,3,18.5 USD,$55.50,DLVRD
+FN-41473,"Sep 29, 2026",leila nguyen,leila.nguyen@mail.example,Southwest,BAG-CANVAS,Canvas Pencil Case,1,21.8 USD,$21.80,SHIPPED 
+FN-41474,2026-09-29,  Yara Tanaka,yara.tanaka83@mail.example,west,PLN-2027-WK,2027 weekly planner,6 pcs,31.00,186 USD,delivered 
+#FN-41475,9/29/2026,  Maya Mensah,maya.mensah@inbox.example,SW,pen-gel-07,Gel Pen 0.7 Black,2,USD 3.25,6.5 USD,Refunded
+#FN-41476,"Sep 29, 2026",leila nguyen,leila.nguyen24@example.com,Midwest,BAG-CANVAS,canvas pencil case,6 pcs,USD 21.80,$130.80,refund
+FN-41477,"Sep 29, 2026",noah silva,NOAH.SILVA@INBOX.EXAMPLE,NE,NB-POCKET-3,pocket notebook 3 pack,1,14.75,$14.75,sent
+FN-41478,09/29/26,hannah abara,HANNAH.ABARA@INBOX.EXAMPLE,NE,DSK-MAT-FLT,felt desk mat,1,$38.60,USD 38.60,sent
+FN-41479,2026-09-30,GRACE CHEN,grace.chen@example.com,Southwest,INK-BTL-BLU,Bottled Ink Blue Black 50ml,4,$16.40,USD 65.60,sent
+#FN-41480,"Sep 30, 2026",diego rahman,diego.rahman@post.example,SW,PLN-2027-WK,2027 weekly planner,6,31 USD,186.00,sent
+fn41481,30 Sep 2026,Diego  Holt,diego.holt@post.example,Midwest,STK-WASHI-6,Washi Tape 6 Pack,6,USD 11.95,71.70,shipped
+fn41482,2026-09-30,  Maya Tanaka,maya.tanaka@mail.example,southwest,PEN-GEL-07,gel pen 0.7 black,2 pcs,$3.25,USD 6.50,returned
+fn41483,"Sep 30, 2026",HANNAH ABARA,hannah.abara@inbox.example,NE,NB-A5-DOT,a5 dot grid notebook,1,USD 18.50,18.50,Refunded
+#FN-41484,09/30/26,Priya Okafor,priya.okafor@example.com,SE,PEN-GEL-07,Gel Pen 0.7 Black,6,3.25 USD,19.50,shipped
+FN-41485,30 Sep 2026,  Grace Chen,grace.chen@example.com,SW,dsk-mat-flt,Felt Desk Mat,3,38.60,USD 115.80,Delivered
+FN-41486,10/1/2026,kenji silva,kenji.silva@post.example,Mid West,NB-POCKET-3,Pocket Notebook 3 Pack,1,14.75,13.75,pending
+fn41487,1 Oct 2026,Priya Brennan,priya.brennan@mail.example,South east,NB-POCKET-3,pocket notebook 3 pack,3,USD 14.75,44.25,processing
 FN-41488,10/1/2026,Diego  Rahman,,SW,ink_btl_blu,Bottled Ink Blue Black 50ml,1,$16.40,USD 17.40,pending
-FN-41489,10/01/26,Priya  Brennan,priya.brennan@icloud.com,Southeast,DSK-MAT-FLT,felt desk mat,1,$38.60,38.60,In Progress
-FN-41489,10/01/26,Priya  Brennan,priya.brennan@icloud.com,Southeast,DSK-MAT-FLT,felt desk mat,1,$38.60,38.60,In Progress
-FN-41490,10/01/26,Zara Kerr,ZARA.KERR36@FASTMAIL.COM,Mid West,PEN-GEL-07,Gel Pen 0.7 Black,6 pcs,$3.25,19.50,Pending
-FN-41490,10/01/26,Zara Kerr,ZARA.KERR36@FASTMAIL.COM,Mid West,PEN-GEL-07,Gel Pen 0.7 Black,6 pcs,$3.25,19.50,Pending
-FN-41491,"Oct 1, 2026",Noah  O'Neill,noah.oneill@gmail.com,southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.60,38.60,pending
-FN-41492,1 Oct 2026,NADIA OKAFOR,nadia.okafor@gmail.com,North East,ink_btl_blu,Bottled Ink Blue Black 50ml,3,16.40,USD 48.20,shipped
-fn41493,10/1/2026,Theo Holt,theo.holt@yahoo.com,SE,NB-A5-DOT,a5 dot grid notebook,2,$18.50,USD 37.00,Shipped
-#FN-41494,10/2/2026,Yara Tanaka,yara.tanaka83@icloud.com,W,NB-A5-LIN,a5 lined notebook,6,$18.50,111 USD,In Progress
-FN-41495,10/02/26,Chloe  Varga,chloe.varga@outlook.com,Southwest,CRD-KRAFT-20,kraft note cards 20 pack,6,USD 13.20,79.2 USD,Pending
-FN-41496,10/02/26,noah silva,noah.silva@fastmail.com,northeast,NB-POCKET-3,Pocket Notebook 3 Pack,3 pcs,USD 14.75,USD 44.25,Pending
-FN-41497,"Oct 2, 2026",Isaac Rahman,isaac.rahman@icloud.com,Midwest,pen-fine-set,Fineliner Set of 12,4,,$99.60,sent
-#FN-41498,2 Oct 2026,Priya Okafor,priya.okafor74@gmail.com,SW,pen_gel_07,Gel Pen 0.7 Black,2,3.25,6.50,pending
-#FN-41499,2026-10-02,  Kenji Brennan,kenji.brennan50@icloud.com,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6,13.20,USD 79.20,In Progress
-fn41500,2026-10-02,Theo Haddad,theo.haddad74@gmail.com,southwest,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75 USD,$88.50,Shipped
-FN-41501,10/02/26,Nadia  Rahman,nadia.rahman@yahoo.com,West,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,29.5 USD,pending
+FN-41489,10/01/26,Priya  Brennan,priya.brennan@mail.example,Southeast,DSK-MAT-FLT,felt desk mat,1,$38.60,38.60,In Progress
+FN-41489,10/01/26,Priya  Brennan,priya.brennan@mail.example,Southeast,DSK-MAT-FLT,felt desk mat,1,$38.60,38.60,In Progress
+FN-41490,10/01/26,Zara Kerr,ZARA.KERR36@INBOX.EXAMPLE,Mid West,PEN-GEL-07,Gel Pen 0.7 Black,6 pcs,$3.25,19.50,Pending
+FN-41490,10/01/26,Zara Kerr,ZARA.KERR36@INBOX.EXAMPLE,Mid West,PEN-GEL-07,Gel Pen 0.7 Black,6 pcs,$3.25,19.50,Pending
+FN-41491,"Oct 1, 2026",Noah  O'Neill,noah.oneill@example.com,southwest,DSK-MAT-FLT,Felt Desk Mat,1,38.60,38.60,pending
+FN-41492,1 Oct 2026,NADIA OKAFOR,nadia.okafor@example.com,North East,ink_btl_blu,Bottled Ink Blue Black 50ml,3,16.40,USD 48.20,shipped
+fn41493,10/1/2026,Theo Holt,theo.holt@example.net,SE,NB-A5-DOT,a5 dot grid notebook,2,$18.50,USD 37.00,Shipped
+#FN-41494,10/2/2026,Yara Tanaka,yara.tanaka83@mail.example,W,NB-A5-LIN,a5 lined notebook,6,$18.50,111 USD,In Progress
+FN-41495,10/02/26,Chloe  Varga,chloe.varga@example.org,Southwest,CRD-KRAFT-20,kraft note cards 20 pack,6,USD 13.20,79.2 USD,Pending
+FN-41496,10/02/26,noah silva,noah.silva@inbox.example,northeast,NB-POCKET-3,Pocket Notebook 3 Pack,3 pcs,USD 14.75,USD 44.25,Pending
+FN-41497,"Oct 2, 2026",Isaac Rahman,isaac.rahman@mail.example,Midwest,pen-fine-set,Fineliner Set of 12,4,,$99.60,sent
+#FN-41498,2 Oct 2026,Priya Okafor,priya.okafor74@example.com,SW,pen_gel_07,Gel Pen 0.7 Black,2,3.25,6.50,pending
+#FN-41499,2026-10-02,  Kenji Brennan,kenji.brennan50@mail.example,southwest,CRD-KRAFT-20,Kraft Note Cards 20 Pack,6,13.20,USD 79.20,In Progress
+fn41500,2026-10-02,Theo Haddad,theo.haddad74@example.com,southwest,NB-POCKET-3,Pocket Notebook 3 Pack,6,14.75 USD,$88.50,Shipped
+FN-41501,10/02/26,Nadia  Rahman,nadia.rahman@example.net,West,NB-POCKET-3,Pocket Notebook 3 Pack,2,$14.75,29.5 USD,pending
 ,,,,,,,,,,
-FN-41502,10/2/2026,Priya Chen,priya.chen68@proton.me,MW,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Pending
-fn41503,"Oct 2, 2026",DIEGO HOLT,diego.holt@proton.me,Midwest,dsk-mat-flt,Felt Desk Mat,2 pcs,38.60,USD 77.20,processing
-#FN-41504,10/2/2026,LUCAS KOWALSKI,lucas.kowalski94@yahoo.com,southeast,pen-ftn-stl,Steel Fountain Pen,6,42.00,USD 252.00,In Progress
-FN-41505,"Oct 3, 2026",Kenji Silva,kenji.silva@fastmail.com,SW,BAG-CANVAS,canvas pencil case,1,$21.80,$21.80,Pending
-fn41506,10/3/2026,priya chen,PRIYA.CHEN68@PROTON.ME,MW,BAG-CANVAS,Canvas Pencil Case,2,$21.80,43.60,pending
-FN-41507,10/03/26,Grace Moreau,grace.moreau@gmail.com,South east,NB-POCKET-3,Pocket Notebook 3 Pack,4,14.75,$59.00,Pending
-fn41508,"Oct 3, 2026",Tomás Kowalski,tomas.kowalski@fastmail.com,southeast,STK-WASHI-6,washi tape 6 pack,4,11.95 USD,47.8 USD,pending
-fn41509,10/4/2026,bianca tanaka,bianca.tanaka@yahoo.con,midwest,BAG-CANVAS,Canvas Pencil Case,1,21.80,21.80,sent
+FN-41502,10/2/2026,Priya Chen,priya.chen68@post.example,MW,PEN-FINE-SET,Fineliner Set of 12,1,24.90,24.90,Pending
+fn41503,"Oct 2, 2026",DIEGO HOLT,diego.holt@post.example,Midwest,dsk-mat-flt,Felt Desk Mat,2 pcs,38.60,USD 77.20,processing
+#FN-41504,10/2/2026,LUCAS KOWALSKI,lucas.kowalski94@example.net,southeast,pen-ftn-stl,Steel Fountain Pen,6,42.00,USD 252.00,In Progress
+FN-41505,"Oct 3, 2026",Kenji Silva,kenji.silva@inbox.example,SW,BAG-CANVAS,canvas pencil case,1,$21.80,$21.80,Pending
+fn41506,10/3/2026,priya chen,PRIYA.CHEN68@POST.EXAMPLE,MW,BAG-CANVAS,Canvas Pencil Case,2,$21.80,43.60,pending
+FN-41507,10/03/26,Grace Moreau,grace.moreau@example.com,South east,NB-POCKET-3,Pocket Notebook 3 Pack,4,14.75,$59.00,Pending
+fn41508,"Oct 3, 2026",Tomás Kowalski,tomas.kowalski@inbox.example,southeast,STK-WASHI-6,washi tape 6 pack,4,11.95 USD,47.8 USD,pending
+fn41509,10/4/2026,bianca tanaka,bianca.tanaka@example.net,midwest,BAG-CANVAS,Canvas Pencil Case,1,21.80,21.80,sent
 #FN-41510,10/04/26,  Maya Tanaka,,SW,DSK-MAT-FLT,felt desk mat,6,38.60,231.60,Pending
 FN-41511,10/04/26,BIANCA TANAKA,,MW,NB-A5-LIN,A5 Lined Notebook,6,18.50,111.00,sent
-FN-41512,10/04/26,  Diego Holt,diego.holt@proton.me,midwest,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,Shiped
-#FN-41513,4 Oct 2026,Ethan Kerr,ethan.kerr38@yahoo.con,W,pln_2027_wk,2027 Weekly Planner,1,USD 31.00,31.00,processing
-fn41514,2026-10-04,Diego Rahman,diego.rahman@proton.me,southwest,NB-A5-LIN,A5 Lined Notebook,1,$18.50,18.50,shipped
+FN-41512,10/04/26,  Diego Holt,diego.holt@post.example,midwest,PEN-GEL-07,Gel Pen 0.7 Black,1,USD 3.25,3.25 USD,Shiped
+#FN-41513,4 Oct 2026,Ethan Kerr,ethan.kerr38@example.net,W,pln_2027_wk,2027 Weekly Planner,1,USD 31.00,31.00,processing
+fn41514,2026-10-04,Diego Rahman,diego.rahman@post.example,southwest,NB-A5-LIN,A5 Lined Notebook,1,$18.50,18.50,shipped

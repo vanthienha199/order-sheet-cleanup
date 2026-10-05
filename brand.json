@@ -4,7 +4,7 @@
     "headline": "Messy orders,\nclean sheets",
     "accent": "clean sheets",
     "stack": "Google Sheets · Apps Script",
-    "chips": ["Fixes dates, prices, emails", "Flags rows for a human", "Weekly summary email"],
+    "chips": ["Fixes dates, prices, emails", "Flags rows for a human", "Weekly summary built in"],
     "shot": "raw/sheet_clean.png",
     "url": "docs.google.com/spreadsheets",
     "shotPosition": "left top"
