@@ -1,34 +1,40 @@
 {
   "out": ".",
-  "hero": {
-    "headline": "Messy orders,\nclean sheets",
-    "accent": "clean sheets",
-    "stack": "Google Sheets · Apps Script",
-    "chips": ["Fixes dates, prices, emails", "Flags rows for a human", "Weekly summary built in"],
-    "shot": "raw/sheet_clean.png",
-    "url": "docs.google.com/spreadsheets",
-    "shotPosition": "left top"
+  "theme": {
+    "canvas": "#F7F6F1", "surface": "#FFFFFF", "ink": "#111111", "accent": "#F2B705",
+    "display": { "family": "Zilla Slab", "weight": 700, "weights": [600, 700] },
+    "body": { "family": "IBM Plex Sans", "weights": [400, 500, 600] }
+  },
+  "cover": {
+    "layout": "B",
+    "headline": "The export, tidied",
+    "proof": "1,056 cells fixed, 7 rows held for a person",
+    "before": "raw/cover_before.png",
+    "after": "raw/cover_after.png",
+    "beforeLabel": "As exported",
+    "afterLabel": "After the script",
+    "beforePos": "left top",
+    "afterPos": "left top"
   },
   "deliverables": {
-    "title": "Before, after, tested",
-    "accent": "tested",
-    "subtitle": "After tab: same script logic run locally",
+    "title": "What you keep",
+    "subtitle": "The script, the sheet it writes and the tests that guard it",
     "tiles": [
-      { "label": "Raw export", "img": "raw/tile_raw.png", "pos": "left top" },
-      { "label": "Clean table", "img": "raw/tile_clean.png", "pos": "left top" },
-      { "label": "Apps Script", "img": "raw/tile_script.png", "pos": "left top" },
+      { "label": "The cleaned sheet", "img": "raw/clean_sheet.png", "pos": "left top" },
+      { "label": "Rows held for a person", "img": "raw/held_rows.png", "pos": "left top" },
+      { "label": "The script itself", "img": "raw/script.png", "pos": "left top" },
       { "label": "8 of 8 tests", "img": "raw/tests.png", "pos": "left top" }
     ]
   },
-  "process": {
-    "title": "Clean data in four days",
-    "accent": "four days",
-    "subtitle": "Your real export, a copy first",
+  "proof": {
+    "title": "Four days, your own export",
+    "subtitle": "On a copy first, never the live sheet",
     "steps": [
-      { "day": "Day 1", "title": "Read your export", "text": "Every messy format in your real rows, written down." },
-      { "day": "Day 2", "title": "Build the cleanup", "text": "Apps Script that fixes, dedupes and flags rows." },
-      { "day": "Day 3", "title": "Summary and email", "text": "A summary tab and a weekly report by email." },
-      { "day": "Day 4", "title": "Test and hand over", "text": "Run on a copy, then a short video walkthrough." }
-    ]
+      { "when": "Day 1", "title": "Read your export", "text": "Every messy format in your real rows, written down." },
+      { "when": "Day 2", "title": "Build the cleanup", "text": "A script that fixes, dedupes and holds back the doubtful." },
+      { "when": "Day 3", "title": "Summary and email", "text": "A summary tab and a weekly report on a trigger." },
+      { "when": "Day 4", "title": "Test and hand over", "text": "Run it on a copy, then a short walkthrough." }
+    ],
+    "stat": { "value": "323 to 308", "label": "rows in, orders out, nothing dropped silently" }
   }
 }
