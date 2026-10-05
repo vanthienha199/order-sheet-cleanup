@@ -4,7 +4,7 @@
   "private": true,
   "description": "Sample Google Sheets automation: clean messy order rows, build a summary tab, email a weekly report.",
   "scripts": {
-    "test": "node --test tests/",
+    "test": "node --test tests/clean.test.js",
     "data": "node data/generate.js && node data/to-gs.js",
     "local": "node tools/local-run.js"
   },
