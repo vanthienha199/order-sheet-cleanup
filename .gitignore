@@ -3,4 +3,7 @@ notes.md
 .DS_Store
 _check_*
 local-run/
-preview/
+preview/data.js
+preview/weekly-email.html
+demo.mp4
+case-study.pdf

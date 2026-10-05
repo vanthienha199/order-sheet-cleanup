@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Halvorsen Office Supply, order sheet after the cleanup</title>
+<meta name="description" content="The cleaned order table beside the log of what the script changed, built by running the same Clean.gs logic locally.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Zilla+Slab:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ledger:#F7F6F1; --surface:#FFFFFF; --ink:#111111; --muted:#5C5A54; --faint:#8C8880;
+  --rule:#E2E0D8; --yellow:#F2B705; --yellow-soft:#FDF0C8;
+}
+*{box-sizing:border-box}
+html,body{background:var(--ledger)}
+body{
+  margin:0;color:var(--ink);font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  font-size:15px;line-height:1.5;
+  /* the faint 24 px ledger grid the whole page sits on */
+  background-image:linear-gradient(var(--rule) 1px,transparent 1px),linear-gradient(90deg,var(--rule) 1px,transparent 1px);
+  background-size:24px 24px;background-position:-1px -1px;
+}
+.wrap{max-width:1420px;margin:0 auto;padding:28px 32px 40px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:18px}
+h1{font-family:"Zilla Slab",Georgia,serif;font-weight:700;font-size:28px;line-height:1.15;margin:0}
+.sub{color:var(--muted);margin:3px 0 0}
+.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.btn{
+  font:inherit;font-weight:600;font-size:14px;padding:8px 15px;border-radius:4px;
+  border:1px solid var(--ink);background:var(--yellow);color:var(--ink);cursor:pointer;
+  transition:background .15s ease-out;
+}
+.btn:hover{background:#d9a404}
+.btn.quiet{background:transparent}
+.btn.quiet:hover{background:var(--yellow-soft)}
+
+.split{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:20px;align-items:start}
+.sheet{background:var(--surface);border:1px solid var(--rule);overflow:auto;max-height:calc(100vh - 210px)}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:5px 9px;
+  white-space:nowrap;text-align:left}
+thead th{position:sticky;top:0;background:#EFEDE6;font-weight:600;font-size:12px;z-index:2}
+th.ref,td.ref{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11.5px;color:var(--faint);
+  background:#EFEDE6;text-align:right;position:sticky;left:0;z-index:1}
+thead th.ref{z-index:3}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+tbody tr:hover td:not(.ref){background:#FAF9F4}
+td.changed{background:var(--yellow-soft)}
+td.flagged{background:var(--surface);box-shadow:inset 0 0 0 2px var(--yellow)}
+tr.held td.ref{background:var(--yellow);color:var(--ink);font-weight:500}
+/* the flash the script leaves behind when it writes a cell */
+@keyframes flash{from{background:var(--yellow)}to{background:var(--yellow-soft)}}
+td.flash{animation:flash .4s ease-out}
+
+.log{background:var(--surface);border:1px solid var(--rule);padding:16px 18px;max-height:calc(100vh - 210px);overflow:auto}
+.log h2{font-family:"Zilla Slab",Georgia,serif;font-weight:600;font-size:17px;margin:0 0 2px}
+.log .when{color:var(--muted);font-size:13px;margin:0 0 12px}
+.tot{display:flex;gap:18px;flex-wrap:wrap;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  padding:10px 0;margin-bottom:12px}
+.tot div{font-size:13px;color:var(--muted)}
+.tot b{display:block;font-family:"Zilla Slab",Georgia,serif;font-weight:700;font-size:19px;color:var(--ink)}
+.entry{display:grid;grid-template-columns:auto 1fr;gap:10px;padding:6px 0;border-bottom:1px solid #F0EEE7;font-size:13px}
+.entry:last-child{border-bottom:0}
+.entry .id{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--muted)}
+.entry .what{color:var(--ink)}
+.entry.held .what{font-weight:600}
+.entry.held .id{background:var(--yellow);color:var(--ink);padding:0 4px}
+.state{color:var(--muted);font-size:13.5px}
+footer{color:var(--faint);font-size:12.5px;margin-top:20px;border-top:1px solid var(--rule);padding-top:12px}
+@media (max-width:1050px){.split{grid-template-columns:minmax(0,1fr)}.sheet,.log{max-height:none}}
+@media (prefers-reduced-motion:reduce){td.flash{animation:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Halvorsen Office Supply</h1>
+      <p class="sub" id="sub">The order sheet after the cleanup, and what the script changed to get there.</p>
+    </div>
+    <div class="controls">
+      <button class="btn quiet" id="mode">Show the raw export</button>
+      <button class="btn" id="replay">Replay the changes</button>
+      <button class="btn quiet" id="onlyheld">Show only held rows</button>
+    </div>
+  </header>
+
+  <div class="split">
+    <div class="sheet" id="sheet"></div>
+    <aside class="log" id="log"></aside>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
